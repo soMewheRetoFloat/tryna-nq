@@ -1,0 +1,255 @@
+[
+  {
+    "question": "Name a cube number between 317 and 810.",
+    "answers": [
+      343,
+      512,
+      729
+    ],
+    "type": "cube number",
+    "range": [
+      317,
+      810
+    ]
+  },
+  {
+    "question": "Name a prime number between 6477 and 6511.",
+    "answers": [
+      6481,
+      6491
+    ],
+    "type": "prime number",
+    "range": [
+      6477,
+      6511
+    ]
+  },
+  {
+    "question": "Name a square number between 2619 and 2989.",
+    "answers": [
+      2704,
+      2809,
+      2916
+    ],
+    "type": "square number",
+    "range": [
+      2619,
+      2989
+    ]
+  },
+  {
+    "question": "Name a prime number between 6140 and 6162.",
+    "answers": [
+      6143,
+      6151
+    ],
+    "type": "prime number",
+    "range": [
+      6140,
+      6162
+    ]
+  },
+  {
+    "question": "Name a Fibonacci number between 182 and 493.",
+    "answers": [
+      233,
+      377
+    ],
+    "type": "Fibonacci number",
+    "range": [
+      182,
+      493
+    ]
+  },
+  {
+    "question": "Name a triangular number between 9422 and 9716.",
+    "answers": [
+      9453,
+      9591
+    ],
+    "type": "triangular number",
+    "range": [
+      9422,
+      9716
+    ]
+  },
+  {
+    "question": "Name a Fibonacci number between 94 and 474.",
+    "answers": [
+      144,
+      233,
+      377
+    ],
+    "type": "Fibonacci number",
+    "range": [
+      94,
+      474
+    ]
+  },
+  {
+    "question": "Name a cube number between 3076 and 3499.",
+    "answers": [
+      3375
+    ],
+    "type": "cube number",
+    "range": [
+      3076,
+      3499
+    ]
+  },
+  {
+    "question": "Name a cube number between 6407 and 6874.",
+    "answers": [
+      6859
+    ],
+    "type": "cube number",
+    "range": [
+      6407,
+      6874
+    ]
+  },
+  {
+    "question": "Name a prime number between 6618 and 6643.",
+    "answers": [
+      6619,
+      6637
+    ],
+    "type": "prime number",
+    "range": [
+      6618,
+      6643
+    ]
+  },
+  {
+    "question": "Name a Fibonacci number between 87 and 261.",
+    "answers": [
+      89,
+      144,
+      233
+    ],
+    "type": "Fibonacci number",
+    "range": [
+      87,
+      261
+    ]
+  },
+  {
+    "question": "Name a square number between 2472 and 2808.",
+    "answers": [
+      2500,
+      2601,
+      2704
+    ],
+    "type": "square number",
+    "range": [
+      2472,
+      2808
+    ]
+  },
+  {
+    "question": "Name a Fibonacci number between 135 and 573.",
+    "answers": [
+      144,
+      233,
+      377
+    ],
+    "type": "Fibonacci number",
+    "range": [
+      135,
+      573
+    ]
+  },
+  {
+    "question": "Name a prime number between 3813 and 3841.",
+    "answers": [
+      3821,
+      3823,
+      3833
+    ],
+    "type": "prime number",
+    "range": [
+      3813,
+      3841
+    ]
+  },
+  {
+    "question": "Name a cube number between 593 and 1056.",
+    "answers": [
+      729,
+      1000
+    ],
+    "type": "cube number",
+    "range": [
+      593,
+      1056
+    ]
+  },
+  {
+    "question": "Name a Fibonacci number between 70 and 495.",
+    "answers": [
+      89,
+      144,
+      233,
+      377
+    ],
+    "type": "Fibonacci number",
+    "range": [
+      70,
+      495
+    ]
+  },
+  {
+    "question": "Name a triangular number between 5985 and 6207.",
+    "answers": [
+      5995,
+      6105
+    ],
+    "type": "triangular number",
+    "range": [
+      5985,
+      6207
+    ]
+  },
+  {
+    "question": "Name a triangular number between 4838 and 5323.",
+    "answers": [
+      4851,
+      4950,
+      5050,
+      5151,
+      5253
+    ],
+    "type": "triangular number",
+    "range": [
+      4838,
+      5323
+    ]
+  },
+  {
+    "question": "Name a square number between 4030 and 4519.",
+    "answers": [
+      4096,
+      4225,
+      4356,
+      4489
+    ],
+    "type": "square number",
+    "range": [
+      4030,
+      4519
+    ]
+  },
+  {
+    "question": "Name a triangular number between 4280 and 4616.",
+    "answers": [
+      4371,
+      4465,
+      4560
+    ],
+    "type": "triangular number",
+    "range": [
+      4280,
+      4616
+    ]
+  }
+]

@@ -1,0 +1,1109 @@
+{
+  "as_of": "2025-04",
+  "religion": [
+    {
+      "qid": "Q131036",
+      "label": "Scientology",
+      "title": "Scientology",
+      "views_12m": 2560617
+    },
+    {
+      "qid": "Q9601",
+      "label": "Zoroastrianism",
+      "title": "Zoroastrianism",
+      "views_12m": 2501235
+    },
+    {
+      "qid": "Q9089",
+      "label": "Hinduism",
+      "title": "Hinduism",
+      "views_12m": 2391154
+    },
+    {
+      "qid": "Q748",
+      "label": "Buddhism",
+      "title": "Buddhism",
+      "views_12m": 2349403
+    },
+    {
+      "qid": "Q9268",
+      "label": "Judaism",
+      "title": "Judaism",
+      "views_12m": 1770279
+    },
+    {
+      "qid": "Q9232",
+      "label": "Jainism",
+      "title": "Jainism",
+      "views_12m": 1451010
+    },
+    {
+      "qid": "Q101462",
+      "label": "Rastafari",
+      "title": "Rastafari",
+      "views_12m": 1424855
+    },
+    {
+      "qid": "Q9598",
+      "label": "Taoism",
+      "title": "Taoism",
+      "views_12m": 1348874
+    },
+    {
+      "qid": "Q170208",
+      "label": "Quakers",
+      "title": "Quakers",
+      "views_12m": 1233570
+    },
+    {
+      "qid": "Q75809",
+      "label": "Lutheranism",
+      "title": "Lutheranism",
+      "views_12m": 978482
+    },
+    {
+      "qid": "Q9581",
+      "label": "Confucianism",
+      "title": "Confucianism",
+      "views_12m": 771455
+    },
+    {
+      "qid": "Q43004",
+      "label": "animism",
+      "title": "Animism",
+      "views_12m": 742766
+    },
+    {
+      "qid": "Q42042",
+      "label": "shamanism",
+      "title": "Shamanism",
+      "views_12m": 734564
+    },
+    {
+      "qid": "Q59774",
+      "label": "Wicca",
+      "title": "Wicca",
+      "views_12m": 716014
+    },
+    {
+      "qid": "Q745955",
+      "label": "Thelema",
+      "title": "Thelema",
+      "views_12m": 652120
+    },
+    {
+      "qid": "Q101849",
+      "label": "Reformed Christianity",
+      "title": "Reformed_Christianity",
+      "views_12m": 617393
+    },
+    {
+      "qid": "Q302729",
+      "label": "Haitian Vodou",
+      "title": "Haitian_Vodou",
+      "views_12m": 614563
+    },
+    {
+      "qid": "Q106687",
+      "label": "Unitarianism",
+      "title": "Unitarianism",
+      "views_12m": 590830
+    },
+    {
+      "qid": "Q161696",
+      "label": "Catharism",
+      "title": "Catharism",
+      "views_12m": 559365
+    },
+    {
+      "qid": "Q7988482",
+      "label": "Western esotericism",
+      "title": "Western_esotericism",
+      "views_12m": 546567
+    },
+    {
+      "qid": "Q837605",
+      "label": "Tengrism",
+      "title": "Tengrism",
+      "views_12m": 457700
+    },
+    {
+      "qid": "Q285441",
+      "label": "heathenry",
+      "title": "Heathenry_(new_religious_movement)",
+      "views_12m": 394540
+    },
+    {
+      "qid": "Q6981696",
+      "label": "Samaritanism",
+      "title": "Samaritanism",
+      "views_12m": 389925
+    },
+    {
+      "qid": "Q337547",
+      "label": "ancient Roman religion",
+      "title": "Religion_in_ancient_Rome",
+      "views_12m": 385852
+    },
+    {
+      "qid": "Q18670106",
+      "label": "Yazidism",
+      "title": "Yazidism",
+      "views_12m": 371559
+    },
+    {
+      "qid": "Q447131",
+      "label": "religion of ancient Egypt",
+      "title": "Ancient_Egyptian_religion",
+      "views_12m": 370866
+    },
+    {
+      "qid": "Q1074275",
+      "label": "Chinese folk religion",
+      "title": "Chinese_folk_religion",
+      "views_12m": 352568
+    },
+    {
+      "qid": "Q256223",
+      "label": "LaVeyan Satanism",
+      "title": "LaVeyan_Satanism",
+      "views_12m": 327802
+    },
+    {
+      "qid": "Q1546302",
+      "label": "Hoodoo",
+      "title": "Hoodoo_(spirituality)",
+      "views_12m": 305890
+    },
+    {
+      "qid": "Q194497",
+      "label": "Historical Vedic religion",
+      "title": "Historical_Vedic_religion",
+      "views_12m": 286477
+    },
+    {
+      "qid": "Q189753",
+      "label": "modern paganism",
+      "title": "Modern_paganism",
+      "views_12m": 284223
+    },
+    {
+      "qid": "Q1062585",
+      "label": "Chaos magic",
+      "title": "Chaos_magic",
+      "views_12m": 278684
+    },
+    {
+      "qid": "Q1401124",
+      "label": "Proto-Indo-European mythology",
+      "title": "Proto-Indo-European_mythology",
+      "views_12m": 276436
+    },
+    {
+      "qid": "Q1426922",
+      "label": "Ifá",
+      "title": "If%C3%A1",
+      "views_12m": 275100
+    },
+    {
+      "qid": "Q275051",
+      "label": "Sumerian religion",
+      "title": "Sumerian_religion",
+      "views_12m": 275096
+    },
+    {
+      "qid": "Q1086440",
+      "label": "Yoruba religion",
+      "title": "Yoruba_religion",
+      "views_12m": 267171
+    },
+    {
+      "qid": "Q1122452",
+      "label": "Germanic paganism",
+      "title": "Germanic_paganism",
+      "views_12m": 249365
+    },
+    {
+      "qid": "Q21028568",
+      "label": "Ancient Mesopotamian religion",
+      "title": "Ancient_Mesopotamian_religion",
+      "views_12m": 223891
+    },
+    {
+      "qid": "Q4016589",
+      "label": "Louisiana Voodoo",
+      "title": "Louisiana_Voodoo",
+      "views_12m": 223338
+    },
+    {
+      "qid": "Q617717",
+      "label": "Soka Gakkai",
+      "title": "Soka_Gakkai",
+      "views_12m": 202514
+    },
+    {
+      "qid": "Q752660",
+      "label": "Candomblé",
+      "title": "Candombl%C3%A9",
+      "views_12m": 200117
+    },
+    {
+      "qid": "Q2965829",
+      "label": "Nicene Christianity",
+      "title": "Nicene_Christianity",
+      "views_12m": 198624
+    },
+    {
+      "qid": "Q1602777",
+      "label": "Hellenistic Judaism",
+      "title": "Hellenistic_Judaism",
+      "views_12m": 190952
+    },
+    {
+      "qid": "Q1263223",
+      "label": "luciferianism",
+      "title": "Luciferianism",
+      "views_12m": 181616
+    },
+    {
+      "qid": "Q1081042",
+      "label": "Kemetism",
+      "title": "Kemetism",
+      "views_12m": 179041
+    },
+    {
+      "qid": "Q146107",
+      "label": "atenism",
+      "title": "Atenism",
+      "views_12m": 167569
+    },
+    {
+      "qid": "Q1541838",
+      "label": "Druidism Modern",
+      "title": "Druidry_(modern)",
+      "views_12m": 161767
+    },
+    {
+      "qid": "Q1281268",
+      "label": "Eckankar",
+      "title": "Eckankar",
+      "views_12m": 150800
+    },
+    {
+      "qid": "Q7485854",
+      "label": "Yarsanism",
+      "title": "Yarsanism",
+      "views_12m": 143206
+    },
+    {
+      "qid": "Q541235",
+      "label": "anglo-catholicism",
+      "title": "Anglo-Catholicism",
+      "views_12m": 141943
+    },
+    {
+      "qid": "Q781560",
+      "label": "Aztec religion",
+      "title": "Aztec_religion",
+      "views_12m": 140409
+    },
+    {
+      "qid": "Q797944",
+      "label": "Babylonian religion",
+      "title": "Babylonian_religion",
+      "views_12m": 139446
+    },
+    {
+      "qid": "Q1431297",
+      "label": "Umbanda",
+      "title": "Umbanda",
+      "views_12m": 134694
+    },
+    {
+      "qid": "Q1571949",
+      "label": "Ariosophy",
+      "title": "Ariosophy",
+      "views_12m": 125029
+    },
+    {
+      "qid": "Q920084",
+      "label": "Native American Church",
+      "title": "Native_American_Church",
+      "views_12m": 124079
+    },
+    {
+      "qid": "Q5162345",
+      "label": "Native American religions",
+      "title": "Native_American_religions",
+      "views_12m": 113869
+    },
+    {
+      "qid": "Q1436850",
+      "label": "gottgläubig",
+      "title": "Gottgl%C3%A4ubig",
+      "views_12m": 112880
+    },
+    {
+      "qid": "Q1275961",
+      "label": "Cult of Reason",
+      "title": "Cult_of_Reason",
+      "views_12m": 106006
+    },
+    {
+      "qid": "Q425381",
+      "label": "Hanif",
+      "title": "Hanif",
+      "views_12m": 99703
+    },
+    {
+      "qid": "Q7424029",
+      "label": "Sarnaism",
+      "title": "Sarnaism",
+      "views_12m": 86513
+    },
+    {
+      "qid": "Q1323511",
+      "label": "low church",
+      "title": "Low_church",
+      "views_12m": 86264
+    },
+    {
+      "qid": "Q1734597",
+      "label": "Punic religion",
+      "title": "Punic_religion",
+      "views_12m": 86157
+    },
+    {
+      "qid": "Q376608",
+      "label": "Australian Aboriginal mythology",
+      "title": "Australian_Aboriginal_religion_and_mythology",
+      "views_12m": 81435
+    },
+    {
+      "qid": "Q11899858",
+      "label": "contemporary witchcraft",
+      "title": "Neopagan_witchcraft",
+      "views_12m": 80319
+    },
+    {
+      "qid": "Q2712462",
+      "label": "traditional Berber religion",
+      "title": "Traditional_Berber_religion",
+      "views_12m": 79499
+    },
+    {
+      "qid": "Q7415486",
+      "label": "Sanamahism",
+      "title": "Sanamahism",
+      "views_12m": 74928
+    },
+    {
+      "qid": "Q1423009",
+      "label": "Zurvanism",
+      "title": "Zurvanism",
+      "views_12m": 74339
+    },
+    {
+      "qid": "Q1493154",
+      "label": "Akan religion",
+      "title": "Akan_religion",
+      "views_12m": 73738
+    },
+    {
+      "qid": "Q11773906",
+      "label": "Church Universal and Triumphant",
+      "title": "Church_Universal_and_Triumphant",
+      "views_12m": 71938
+    },
+    {
+      "qid": "Q2882899",
+      "label": "beliefs and practices of The Church of Jesus Christ of Latter-day Saints",
+      "title": "Beliefs_and_practices_of_the_Church_of_Jesus_Christ_of_Latter-day_Saints",
+      "views_12m": 68963
+    },
+    {
+      "qid": "Q4166501",
+      "label": "Donyi-Polo",
+      "title": "Donyi-Polo",
+      "views_12m": 68844
+    },
+    {
+      "qid": "Q2032421",
+      "label": "Santo Daime",
+      "title": "Santo_Daime",
+      "views_12m": 59811
+    },
+    {
+      "qid": "Q892785",
+      "label": "Ryukyuan religion",
+      "title": "Ryukyuan_religion",
+      "views_12m": 57816
+    },
+    {
+      "qid": "Q117421539",
+      "label": "Kushite religion",
+      "title": "Kushite_religion",
+      "views_12m": 57662
+    },
+    {
+      "qid": "Q115389540",
+      "label": "Mango worship",
+      "title": "Mango_cult",
+      "views_12m": 55650
+    },
+    {
+      "qid": "Q1523459",
+      "label": "Stregheria",
+      "title": "Stregheria",
+      "views_12m": 54888
+    },
+    {
+      "qid": "Q5686977",
+      "label": "Haymanot",
+      "title": "Haymanot",
+      "views_12m": 52886
+    },
+    {
+      "qid": "Q582451",
+      "label": "Dianic Wicca",
+      "title": "Dianic_Wicca",
+      "views_12m": 50718
+    },
+    {
+      "qid": "Q889766",
+      "label": "Brahmanism",
+      "title": "Brahmanism",
+      "views_12m": 50310
+    },
+    {
+      "qid": "Q538136",
+      "label": "Midewiwin",
+      "title": "Midewiwin",
+      "views_12m": 50078
+    },
+    {
+      "qid": "Q113480760",
+      "label": "Dunamis International Gospel Centre",
+      "title": "Dunamis_International_Gospel_Centre",
+      "views_12m": 47901
+    },
+    {
+      "qid": "Q5327307",
+      "label": "Earthseed",
+      "title": "Earthseed",
+      "views_12m": 47486
+    },
+    {
+      "qid": "Q27712",
+      "label": "Jewish Renewal",
+      "title": "Jewish_Renewal",
+      "views_12m": 45840
+    },
+    {
+      "qid": "Q893252",
+      "label": "Universalist Church of America",
+      "title": "Universalist_Church_of_America",
+      "views_12m": 42874
+    },
+    {
+      "qid": "Q740931",
+      "label": "Gallicanism",
+      "title": "Gallicanism",
+      "views_12m": 42248
+    },
+    {
+      "qid": "Q893589",
+      "label": "Bori religion",
+      "title": "Hausa_animism",
+      "views_12m": 40544
+    },
+    {
+      "qid": "Q2356772",
+      "label": "Gardnerian Wicca",
+      "title": "Gardnerian_Wicca",
+      "views_12m": 39646
+    },
+    {
+      "qid": "Q6302199",
+      "label": "Judaism's view on Muhammad",
+      "title": "Jewish_views_on_Muhammad",
+      "views_12m": 38070
+    },
+    {
+      "qid": "Q63368099",
+      "label": "Ahom religion",
+      "title": "Ahom_religion",
+      "views_12m": 38070
+    },
+    {
+      "qid": "Q13408013",
+      "label": "Coconut Religion",
+      "title": "Coconut_Religion",
+      "views_12m": 37948
+    },
+    {
+      "qid": "Q784270",
+      "label": "Drukpa Lineage",
+      "title": "Drukpa_Kagyu",
+      "views_12m": 37677
+    },
+    {
+      "qid": "Q385393",
+      "label": "Gallo-Roman religion",
+      "title": "Gallo-Roman_religion",
+      "views_12m": 34740
+    },
+    {
+      "qid": "Q1861716",
+      "label": "Religion of Humanity",
+      "title": "Religion_of_Humanity",
+      "views_12m": 34657
+    },
+    {
+      "qid": "Q22948424",
+      "label": "Nabataean religion",
+      "title": "Nabataean_religion",
+      "views_12m": 33348
+    },
+    {
+      "qid": "Q89918799",
+      "label": "Hetanism",
+      "title": "Hetanism",
+      "views_12m": 33120
+    },
+    {
+      "qid": "Q834462",
+      "label": "Nichiren Shōshū",
+      "title": "Nichiren_Sh%C5%8Dsh%C5%AB",
+      "views_12m": 32799
+    },
+    {
+      "qid": "Q2254859",
+      "label": "Roman polytheistic reconstructionism",
+      "title": "Reconstructionist_Roman_religion",
+      "views_12m": 31053
+    },
+    {
+      "qid": "Q3045261",
+      "label": "detachment",
+      "title": "Nonattachment_(philosophy)",
+      "views_12m": 30449
+    },
+    {
+      "qid": "Q948515",
+      "label": "Spiritual Christianity",
+      "title": "Spiritual_Christianity",
+      "views_12m": 30203
+    },
+    {
+      "qid": "Q123384193",
+      "label": "Christo-Paganism",
+      "title": "Christo-Paganism",
+      "views_12m": 29582
+    },
+    {
+      "qid": "Q6673892",
+      "label": "Longhouse Religion",
+      "title": "Longhouse_Religion",
+      "views_12m": 29493
+    },
+    {
+      "qid": "Q6754235",
+      "label": "Mapuche religion",
+      "title": "Mapuche_religion",
+      "views_12m": 29124
+    },
+    {
+      "qid": "Q5221505",
+      "label": "Đạo Mẫu",
+      "title": "%C4%90%E1%BA%A1o_M%E1%BA%ABu",
+      "views_12m": 28957
+    },
+    {
+      "qid": "Q23620596",
+      "label": "Madhwa Brahmins",
+      "title": "Madhva_Brahmin",
+      "views_12m": 28007
+    },
+    {
+      "qid": "Q10889441",
+      "label": "religious Confucianism",
+      "title": "Religious_Confucianism",
+      "views_12m": 24990
+    },
+    {
+      "qid": "Q7311260",
+      "label": "Religion in space",
+      "title": "Religion_in_space",
+      "views_12m": 24945
+    },
+    {
+      "qid": "Q1018444",
+      "label": "Bwiti",
+      "title": "Bwiti",
+      "views_12m": 24782
+    },
+    {
+      "qid": "Q6821410",
+      "label": "Mesoamerican religion",
+      "title": "Mesoamerican_religion",
+      "views_12m": 24701
+    },
+    {
+      "qid": "Q859723",
+      "label": "Badimo",
+      "title": "Badimo",
+      "views_12m": 23934
+    },
+    {
+      "qid": "Q2356817",
+      "label": "Alexandrian Wicca",
+      "title": "Alexandrian_Wicca",
+      "views_12m": 23438
+    },
+    {
+      "qid": "Q25326557",
+      "label": "Ground Crew Project",
+      "title": "Ground_Crew_Project",
+      "views_12m": 22679
+    },
+    {
+      "qid": "Q1092180",
+      "label": "Finnish Neopaganism",
+      "title": "Modern_Finnish_paganism",
+      "views_12m": 22446
+    },
+    {
+      "qid": "Q1984195",
+      "label": "Modekngei",
+      "title": "Modekngei",
+      "views_12m": 22362
+    },
+    {
+      "qid": "Q7901124",
+      "label": "Urreligion",
+      "title": "Urreligion",
+      "views_12m": 22236
+    },
+    {
+      "qid": "Q5116819",
+      "label": "Church of Aphrodite",
+      "title": "Church_of_Aphrodite",
+      "views_12m": 22014
+    },
+    {
+      "qid": "Q1712272",
+      "label": "Surat Shabd Yoga",
+      "title": "Surat_Shabd_Yoga",
+      "views_12m": 21936
+    },
+    {
+      "qid": "Q1527782",
+      "label": "Proto-Indo-Iranian religion",
+      "title": "Proto-Indo-Iranian_religion",
+      "views_12m": 21592
+    },
+    {
+      "qid": "Q786221",
+      "label": "Mari religion",
+      "title": "Mari_religion",
+      "views_12m": 21573
+    },
+    {
+      "qid": "Q4994199",
+      "label": "Neo-Theosophy",
+      "title": "Neo-Theosophy",
+      "views_12m": 20851
+    },
+    {
+      "qid": "Q5189135",
+      "label": "Crow religion",
+      "title": "Crow_religion",
+      "views_12m": 20678
+    },
+    {
+      "qid": "Q955165",
+      "label": "Grapevine cross",
+      "title": "Grapevine_cross",
+      "views_12m": 20550
+    },
+    {
+      "qid": "Q24961792",
+      "label": "Muisca religion",
+      "title": "Muisca_religion",
+      "views_12m": 19995
+    },
+    {
+      "qid": "Q96376502",
+      "label": "Dogon religion",
+      "title": "Dogon_religion",
+      "views_12m": 18592
+    },
+    {
+      "qid": "Q28401144",
+      "label": "Terasem Movement",
+      "title": "Terasem_Movement",
+      "views_12m": 18414
+    },
+    {
+      "qid": "Q588362",
+      "label": "Kadam",
+      "title": "Kadam_(Tibetan_Buddhism)",
+      "views_12m": 18375
+    },
+    {
+      "qid": "Q2917160",
+      "label": "Feri Tradition",
+      "title": "Feri_Tradition",
+      "views_12m": 18128
+    },
+    {
+      "qid": "Q6052374",
+      "label": "International Peace Mission movement",
+      "title": "International_Peace_Mission_movement",
+      "views_12m": 17582
+    },
+    {
+      "qid": "Q1589278",
+      "label": "Pai Mārire",
+      "title": "Pai_M%C4%81rire",
+      "views_12m": 17559
+    },
+    {
+      "qid": "Q1106521",
+      "label": "Celtic Wicca",
+      "title": "Celtic_Wicca",
+      "views_12m": 16007
+    },
+    {
+      "qid": "Q65078498",
+      "label": "Jamaican Maroon religion",
+      "title": "Jamaican_Maroon_religion",
+      "views_12m": 15695
+    },
+    {
+      "qid": "Q611662",
+      "label": "Mun",
+      "title": "Mun_(religion)",
+      "views_12m": 15581
+    },
+    {
+      "qid": "Q936081",
+      "label": "Cross and Crown",
+      "title": "Cross_and_Crown",
+      "views_12m": 15311
+    },
+    {
+      "qid": "Q5372621",
+      "label": "Emissaries of Divine Light",
+      "title": "Emissaries_of_Divine_Light",
+      "views_12m": 14989
+    },
+    {
+      "qid": "Q5694834",
+      "label": "Heaven worship",
+      "title": "Heaven_worship",
+      "views_12m": 14068
+    },
+    {
+      "qid": "Q125895293",
+      "label": "Sari Dharam",
+      "title": "Sari_Dharam",
+      "views_12m": 13320
+    },
+    {
+      "qid": "Q1426400",
+      "label": "Homaranismo",
+      "title": "Homaranismo",
+      "views_12m": 13075
+    },
+    {
+      "qid": "Q7698766",
+      "label": "Temple of the True Inner Light",
+      "title": "Temple_of_the_True_Inner_Light",
+      "views_12m": 13047
+    },
+    {
+      "qid": "Q108883006",
+      "label": "Paganism in Middle-earth",
+      "title": "Paganism_in_Middle-earth",
+      "views_12m": 13030
+    },
+    {
+      "qid": "Q4067214",
+      "label": "Antonianism",
+      "title": "Antonianism",
+      "views_12m": 12963
+    },
+    {
+      "qid": "Q624639",
+      "label": "Jeung San Do",
+      "title": "Jeung_San_Do",
+      "views_12m": 10955
+    },
+    {
+      "qid": "Q2384582",
+      "label": "Makuya Church",
+      "title": "Makuya",
+      "views_12m": 10807
+    },
+    {
+      "qid": "Q2536027",
+      "label": "Cochrane's Craft",
+      "title": "Cochrane%27s_Craft",
+      "views_12m": 10489
+    },
+    {
+      "qid": "Q127163544",
+      "label": "Lydian religion",
+      "title": "Lydian_religion",
+      "views_12m": 10107
+    },
+    {
+      "qid": "Q16931065",
+      "label": "Amazighs Christians Donatians",
+      "title": "Berber_Christians",
+      "views_12m": 10073
+    },
+    {
+      "qid": "Q213483",
+      "label": "modern Asatru",
+      "title": "%C3%81satr%C3%BA",
+      "views_12m": 9713
+    },
+    {
+      "qid": "Q17014295",
+      "label": "Mordvin native religion",
+      "title": "Erzyan_native_religion",
+      "views_12m": 9515
+    },
+    {
+      "qid": "Q7311148",
+      "label": "Religion and ritual of the Cucuteni–Trypillian culture",
+      "title": "Religion_and_ritual_of_the_Cucuteni%E2%80%93Trypillia_culture",
+      "views_12m": 9383
+    },
+    {
+      "qid": "Q4929915",
+      "label": "Blue Star Wicca",
+      "title": "Blue_Star_Wicca",
+      "views_12m": 9236
+    },
+    {
+      "qid": "Q7442294",
+      "label": "Seax-Wica",
+      "title": "Seax-Wica",
+      "views_12m": 8993
+    },
+    {
+      "qid": "Q2724756",
+      "label": "British Traditional Wicca",
+      "title": "British_Traditional_Wicca",
+      "views_12m": 8724
+    },
+    {
+      "qid": "Q719688",
+      "label": "Theophilanthropy",
+      "title": "Theophilanthropy",
+      "views_12m": 8350
+    },
+    {
+      "qid": "Q3064414",
+      "label": "Faery Wicca",
+      "title": "Faery_Wicca",
+      "views_12m": 7040
+    },
+    {
+      "qid": "Q7893945",
+      "label": "Universal Eclectic Wicca",
+      "title": "Universal_Eclectic_Wicca",
+      "views_12m": 6313
+    },
+    {
+      "qid": "Q9585236",
+      "label": "Taiwanese folk religion",
+      "title": "Taiwanese_folk_beliefs",
+      "views_12m": 6263
+    },
+    {
+      "qid": "Q111954613",
+      "label": "Samnite religion",
+      "title": "Samnite_religion",
+      "views_12m": 6212
+    },
+    {
+      "qid": "Q653912",
+      "label": "Nauruan indigenous religion",
+      "title": "Nauruan_indigenous_religion",
+      "views_12m": 6167
+    },
+    {
+      "qid": "Q6471025",
+      "label": "Laestadianism in America",
+      "title": "Laestadianism_in_the_Americas",
+      "views_12m": 6122
+    },
+    {
+      "qid": "Q2375761",
+      "label": "Wetu Telu Thoriqoh",
+      "title": "Wetu_Telu",
+      "views_12m": 6063
+    },
+    {
+      "qid": "Q111955247",
+      "label": "Efik religion",
+      "title": "Efik_religion",
+      "views_12m": 6009
+    },
+    {
+      "qid": "Q104859198",
+      "label": "Abwoi religion",
+      "title": "Abwoi_religion",
+      "views_12m": 5724
+    },
+    {
+      "qid": "Q1165471",
+      "label": "Daoyuan",
+      "title": "Guiyidao",
+      "views_12m": 5364
+    },
+    {
+      "qid": "Q55605159",
+      "label": "Bell Church",
+      "title": "Bell_Church",
+      "views_12m": 4803
+    },
+    {
+      "qid": "Q130662102",
+      "label": "Rasta views on gender and sexuality",
+      "title": "Rastafari_views_on_gender_and_sexuality",
+      "views_12m": 4736
+    },
+    {
+      "qid": "Q22906493",
+      "label": "Ashurism",
+      "title": "Ashurism",
+      "views_12m": 4304
+    },
+    {
+      "qid": "Q5548063",
+      "label": "Georgian Wicca",
+      "title": "Georgian_Wicca",
+      "views_12m": 4218
+    },
+    {
+      "qid": "Q8069107",
+      "label": "Zenith Applied Philosophy",
+      "title": "Zenith_Applied_Philosophy",
+      "views_12m": 3987
+    },
+    {
+      "qid": "Q10299941",
+      "label": "Bola de Neve Church",
+      "title": "Bola_de_Neve_Church",
+      "views_12m": 3726
+    },
+    {
+      "qid": "Q6422491",
+      "label": "Knights of Seth",
+      "title": "Knights_of_Seth",
+      "views_12m": 3533
+    },
+    {
+      "qid": "Q118814",
+      "label": "Traditional Anglican Communion",
+      "title": "Traditional_Anglican_Communion",
+      "views_12m": 3533
+    },
+    {
+      "qid": "Q1788105",
+      "label": "Tenshō Kōtai Jingūkyō",
+      "title": "Tensh%C5%8D_K%C5%8Dtai_Jing%C5%ABky%C5%8D",
+      "views_12m": 3450
+    },
+    {
+      "qid": "Q769045",
+      "label": "Central Valley Wicca",
+      "title": "Central_Valley_Wicca",
+      "views_12m": 3315
+    },
+    {
+      "qid": "Q7623173",
+      "label": "Stregoneria",
+      "title": "Stregoneria",
+      "views_12m": 3055
+    },
+    {
+      "qid": "Q80824331",
+      "label": "Arará religion",
+      "title": "Arar%C3%A1_religion",
+      "views_12m": 2863
+    },
+    {
+      "qid": "Q5994019",
+      "label": "Mundial Church of God's Power",
+      "title": "World_Church_of_God%27s_Power",
+      "views_12m": 2604
+    },
+    {
+      "qid": "Q4784420",
+      "label": "Arathi",
+      "title": "Arathi",
+      "views_12m": 2397
+    },
+    {
+      "qid": "Q4723948",
+      "label": "Algard Wicca",
+      "title": "Algard_Wicca",
+      "views_12m": 2393
+    },
+    {
+      "qid": "Q107668751",
+      "label": "Meiteism",
+      "title": "Meiteism",
+      "views_12m": 1998
+    },
+    {
+      "qid": "Q30694271",
+      "label": "Kingdom movement",
+      "title": "Kingdom_movement",
+      "views_12m": 1384
+    },
+    {
+      "qid": "Q16577447",
+      "label": "Episcopal Diocese of Litoral Ecuador",
+      "title": "Episcopal_Diocese_of_Litoral_Ecuador",
+      "views_12m": 1316
+    },
+    {
+      "qid": "Q16726841",
+      "label": "Hanolgyo",
+      "title": "Hanol-gyo",
+      "views_12m": 981
+    },
+    {
+      "qid": "Q365138",
+      "label": "Ngor",
+      "title": "Ngor_lineage",
+      "views_12m": 953
+    },
+    {
+      "qid": "Q6801138",
+      "label": "McFarland Dianic",
+      "title": "McFarland_Dianic",
+      "views_12m": 791
+    },
+    {
+      "qid": "Q3399450",
+      "label": "Christianity and neopaganism",
+      "title": "Christianity_and_modern_paganism",
+      "views_12m": 569
+    },
+    {
+      "qid": "Q125338341",
+      "label": "Religion of Sakalava people",
+      "title": "Religion_of_Sakalava_people",
+      "views_12m": 46
+    }
+  ]
+}

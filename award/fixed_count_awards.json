@@ -1,0 +1,4943 @@
+{
+  "Honorary Commander of the Order of the British Empire": {
+    "qid": "Q44171705",
+    "parent_qid": "Q14420",
+    "count_per_year": 1,
+    "years": {
+      "1942": [
+        [
+          "Leopold Gerard Louis van der Kun",
+          "Q109919044",
+          "Q5"
+        ]
+      ],
+      "1946": [
+        [
+          "Pieter Lodewijk Gerard Doorman",
+          "Q104843944",
+          "Q5"
+        ]
+      ],
+      "1949": [
+        [
+          "Wijbrandus Schilling",
+          "Q19937807",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "David Alexander",
+          "Q5230691",
+          "Q5"
+        ]
+      ],
+      "2003": [
+        [
+          "Bernard King",
+          "Q126453903",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Vince Power",
+          "Q16116426",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Pertti Salolainen",
+          "Q326512",
+          "Q5"
+        ]
+      ],
+      "2024": [
+        [
+          "Edna Longley",
+          "Q5340064",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Honorary Dame Commander of the Order of the British Empire": {
+    "qid": "Q104214213",
+    "parent_qid": "Q14420",
+    "count_per_year": 1,
+    "years": {
+      "2012": [
+        [
+          "Uta Frith",
+          "Q8219",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Ana Botín",
+          "Q299646",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Honorary Officer of the Order of the British Empire": {
+    "qid": "Q104783477",
+    "parent_qid": "Q14420",
+    "count_per_year": 1,
+    "years": {
+      "1921": [
+        [
+          "Alexander Karel Bosman",
+          "Q118605142",
+          "Q5"
+        ]
+      ],
+      "1941": [
+        [
+          "Pieter Jacobus de Broekert",
+          "Q106495412",
+          "Q5"
+        ]
+      ],
+      "1945": [
+        [
+          "Christiaan Tonnet",
+          "Q5109230",
+          "Q5"
+        ]
+      ],
+      "1946": [
+        [
+          "Otto de Booy",
+          "Q2734553",
+          "Q5"
+        ]
+      ],
+      "1947": [
+        [
+          "António de Medeiros e Almeida",
+          "Q16492067",
+          "Q5"
+        ]
+      ],
+      "1961": [
+        [
+          "Richard Tötterman",
+          "Q11890669",
+          "Q5"
+        ]
+      ],
+      "1977": [
+        [
+          "Paavo Berglund",
+          "Q920593",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Gianfranco Zola",
+          "Q9354",
+          "Q5"
+        ]
+      ],
+      "2009": [
+        [
+          "Sakari Oramo",
+          "Q278650",
+          "Q5"
+        ]
+      ],
+      "2012": [
+        [
+          "Eddie Jordan",
+          "Q173175",
+          "Q5"
+        ]
+      ],
+      "2021": [
+        [
+          "Edel Harris",
+          "Q110713035",
+          "Q5"
+        ]
+      ],
+      "2022": [
+        [
+          "Roisin Quinn",
+          "Q130478176",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Honorary Knight Grand Cross of the Order of the British Empire": {
+    "qid": "Q104783509",
+    "parent_qid": "Q14420",
+    "count_per_year": 1,
+    "years": {
+      "1976": [
+        [
+          "Veikko Helle",
+          "Q5799015",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Ratan Tata",
+          "Q333460",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Golden Globe Award for Best Miniseries or Television Film": {
+    "qid": "Q265435",
+    "parent_qid": "Q1011547",
+    "count_per_year": 1,
+    "years": {
+      "1999": [
+        [
+          "Tony Scott",
+          "Q193648",
+          "Q5"
+        ]
+      ],
+      "2016": [
+        [
+          "Wolf Hall",
+          "Q17039455",
+          "Q5398426"
+        ]
+      ],
+      "2020": [
+        [
+          "Chernobyl",
+          "Q48741246",
+          "Q1259759"
+        ]
+      ],
+      "2023": [
+        [
+          "The White Lotus",
+          "Q106679014",
+          "Q5398426"
+        ]
+      ]
+    }
+  },
+  "Carol Burnett Award": {
+    "qid": "Q60683175",
+    "parent_qid": "Q1011547",
+    "count_per_year": 1,
+    "years": {
+      "2020": [
+        [
+          "Ellen DeGeneres",
+          "Q483325",
+          "Q5"
+        ]
+      ],
+      "2023": [
+        [
+          "Ryan Murphy",
+          "Q316844",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Heisman Trophy": {
+    "qid": "Q1035067",
+    "parent_qid": "Q1035067",
+    "count_per_year": 1,
+    "years": {
+      "1941": [
+        [
+          "Bruce Smith",
+          "Q2926477",
+          "Q5"
+        ]
+      ],
+      "1944": [
+        [
+          "Les Horvath",
+          "Q1129334",
+          "Q5"
+        ]
+      ],
+      "1947": [
+        [
+          "Johnny Lujack",
+          "Q471897",
+          "Q5"
+        ]
+      ],
+      "1959": [
+        [
+          "Billy Cannon",
+          "Q4912321",
+          "Q5"
+        ]
+      ],
+      "1963": [
+        [
+          "Roger Staubach",
+          "Q736932",
+          "Q5"
+        ]
+      ],
+      "1973": [
+        [
+          "John Cappelletti",
+          "Q3181191",
+          "Q5"
+        ]
+      ],
+      "1985": [
+        [
+          "Bo Jackson",
+          "Q887401",
+          "Q5"
+        ]
+      ],
+      "1990": [
+        [
+          "Ty Detmer",
+          "Q1147480",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Danny Wuerffel",
+          "Q1164813",
+          "Q5"
+        ]
+      ],
+      "1997": [
+        [
+          "Charles Woodson",
+          "Q1066501",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "Carson Palmer",
+          "Q1045461",
+          "Q5"
+        ]
+      ],
+      "2007": [
+        [
+          "Tim Tebow",
+          "Q517467",
+          "Q5"
+        ]
+      ],
+      "2008": [
+        [
+          "Sam Bradford",
+          "Q714292",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Cam Newton",
+          "Q591678",
+          "Q5"
+        ]
+      ],
+      "2012": [
+        [
+          "Johnny Manziel",
+          "Q716875",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Derrick Henry",
+          "Q16729768",
+          "Q5"
+        ]
+      ],
+      "2016": [
+        [
+          "Lamar Jackson",
+          "Q24809702",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Baker Mayfield",
+          "Q14950655",
+          "Q5"
+        ]
+      ],
+      "2018": [
+        [
+          "Kyler Murray",
+          "Q18648942",
+          "Q5"
+        ]
+      ],
+      "2019": [
+        [
+          "Joe Burrow",
+          "Q56860229",
+          "Q5"
+        ]
+      ],
+      "2020": [
+        [
+          "DeVonta Smith",
+          "Q68974853",
+          "Q5"
+        ]
+      ],
+      "2022": [
+        [
+          "Caleb Williams",
+          "Q108878513",
+          "Q5"
+        ]
+      ],
+      "2023": [
+        [
+          "Jayden Daniels",
+          "Q66825384",
+          "Q5"
+        ]
+      ],
+      "2024": [
+        [
+          "Travis Hunter",
+          "Q110442577",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Miss Universe": {
+    "qid": "Q161376",
+    "parent_qid": "Q161376",
+    "count_per_year": 1,
+    "years": {
+      "1958": [
+        [
+          "Luz Marina Zuluaga",
+          "Q2231039",
+          "Q5"
+        ]
+      ],
+      "1967": [
+        [
+          "Sylvia Hitchcock",
+          "Q2628098",
+          "Q5"
+        ]
+      ],
+      "1974": [
+        [
+          "Amparo Muñoz",
+          "Q256370",
+          "Q5"
+        ]
+      ],
+      "1977": [
+        [
+          "Janelle Commissiong",
+          "Q433333",
+          "Q5"
+        ]
+      ],
+      "1995": [
+        [
+          "Chelsi Smith",
+          "Q2534028",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "Oxana Fedorova",
+          "Q1623076",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Jennifer Hawkins",
+          "Q270679",
+          "Q5"
+        ]
+      ],
+      "2005": [
+        [
+          "Natalie Glebova",
+          "Q240555",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Zuleyka Rivera Mendoza",
+          "Q228798",
+          "Q5"
+        ]
+      ],
+      "2007": [
+        [
+          "Riyo Mori",
+          "Q242578",
+          "Q5"
+        ]
+      ],
+      "2008": [
+        [
+          "Dayana Mendoza",
+          "Q289662",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Ximena Navarrete",
+          "Q286733",
+          "Q5"
+        ]
+      ],
+      "2011": [
+        [
+          "Leila Lopes",
+          "Q232501",
+          "Q5"
+        ]
+      ],
+      "2012": [
+        [
+          "Olivia Culpo",
+          "Q291102",
+          "Q5"
+        ]
+      ],
+      "2013": [
+        [
+          "María Gabriela Isler",
+          "Q3293482",
+          "Q5"
+        ]
+      ],
+      "2023": [
+        [
+          "Sheynnis Palacios",
+          "Q85468736",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "National Film Award for Best Special Effects": {
+    "qid": "Q143430",
+    "parent_qid": "Q1350697",
+    "count_per_year": 1,
+    "years": {
+      "2000": [
+        [
+          "Hey Ram",
+          "Q760266",
+          "Q11424"
+        ]
+      ],
+      "2003": [
+        [
+          "Koi... Mil Gaya",
+          "Q1094839",
+          "Q11424"
+        ]
+      ],
+      "2006": [
+        [
+          "Krrish",
+          "Q1076823",
+          "Q11424"
+        ]
+      ],
+      "2009": [
+        [
+          "Magadheera",
+          "Q1134677",
+          "Q11424"
+        ]
+      ]
+    }
+  },
+  "National Film Award for Best Supporting Actor": {
+    "qid": "Q1461985",
+    "parent_qid": "Q1350697",
+    "count_per_year": 1,
+    "years": {
+      "1985": [
+        [
+          "The Home and the World",
+          "Q717188",
+          "Q11424"
+        ]
+      ],
+      "1988": [
+        [
+          "Raakh",
+          "Q3419903",
+          "Q11424"
+        ]
+      ],
+      "1990": [
+        [
+          "Nana Patekar",
+          "Q2475741",
+          "Q5"
+        ]
+      ],
+      "1991": [
+        [
+          "Nedumudi Venu",
+          "Q12072044",
+          "Q5"
+        ]
+      ],
+      "1994": [
+        [
+          "Nagesh",
+          "Q1022530",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Mithun Chakraborty",
+          "Q379604",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "Prakash Raj",
+          "Q1322453",
+          "Q5"
+        ]
+      ],
+      "1999": [
+        [
+          "Manoj Bajpai",
+          "Q158533",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Naseeruddin Shah",
+          "Q469945",
+          "Q5"
+        ]
+      ],
+      "2009": [
+        [
+          "Arjun Rampal",
+          "Q442668",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Saurabh Shukla",
+          "Q7427518",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Manoj Joshi",
+          "Q12445334",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "National Film Award for Best Feature Film in Assamese": {
+    "qid": "Q1720787",
+    "parent_qid": "Q1350697",
+    "count_per_year": 1,
+    "years": {
+      "2013": [
+        [
+          "Ajeyo",
+          "Q15943119",
+          "Q11424"
+        ]
+      ],
+      "2015": [
+        [
+          "Kothanodi",
+          "Q20720659",
+          "Q11424"
+        ]
+      ],
+      "2018": [
+        [
+          "Bulbul Can Sing",
+          "Q56281788",
+          "Q11424"
+        ]
+      ]
+    }
+  },
+  "National Film Award for Best Male Playback Singer": {
+    "qid": "Q1748337",
+    "parent_qid": "Q1350697",
+    "count_per_year": 1,
+    "years": {
+      "1976": [
+        [
+          "M. Balamuralikrishna",
+          "Q2880506",
+          "Q5"
+        ]
+      ],
+      "1977": [
+        [
+          "Mohammed Rafi",
+          "Q156815",
+          "Q5"
+        ]
+      ],
+      "1979": [
+        [
+          "Shimoga Subbanna",
+          "Q7496960",
+          "Q5"
+        ]
+      ],
+      "1981": [
+        [
+          "Anup Ghoshal",
+          "Q3350306",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Sonu Nigam",
+          "Q470898",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Naresh Iyer",
+          "Q3635484",
+          "Q5"
+        ]
+      ],
+      "2007": [
+        [
+          "Taare Zameen Par",
+          "Q1043614",
+          "Q11424"
+        ]
+      ],
+      "2009": [
+        [
+          "Hariharan",
+          "Q2051231",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Rupam Islam",
+          "Q2879782",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Rupankar Bagchi",
+          "Q7380207",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Sundarayyar",
+          "Q32543205",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "National Film Award for Best Supporting Actress": {
+    "qid": "Q1967146",
+    "parent_qid": "Q1350697",
+    "count_per_year": 1,
+    "years": {
+      "1986": [
+        [
+          "Vijaya Mehta",
+          "Q540297",
+          "Q5"
+        ]
+      ],
+      "1988": [
+        [
+          "Uttara Baokar",
+          "Q7903368",
+          "Q5"
+        ]
+      ],
+      "1990": [
+        [
+          "Manorama",
+          "Q467693",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Rajeshwari Sachdev",
+          "Q7286105",
+          "Q5"
+        ]
+      ],
+      "1999": [
+        [
+          "Suhasini Mulay",
+          "Q7635226",
+          "Q5"
+        ]
+      ],
+      "2003": [
+        [
+          "Rakhee Gulzar",
+          "Q3196775",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Sharmila Tagore",
+          "Q465830",
+          "Q5"
+        ]
+      ],
+      "2013": [
+        [
+          "Amruta Subhash",
+          "Q11457118",
+          "Q5"
+        ]
+      ],
+      "2016": [
+        [
+          "Tanvi Azmi",
+          "Q7683939",
+          "Q5"
+        ]
+      ],
+      "2020": [
+        [
+          "Lakshmi Priyaa Chandramouli",
+          "Q16202894",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "National Film Award for Best Feature Film in Tamil": {
+    "qid": "Q1967189",
+    "parent_qid": "Q1350697",
+    "count_per_year": 1,
+    "years": {
+      "2008": [
+        [
+          "Gautham Vasudev Menon",
+          "Q3536381",
+          "Q5"
+        ]
+      ],
+      "2013": [
+        [
+          "Gautham Vasudev Menon",
+          "Q3536381",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "National Film Award for Best Popular Film Providing Wholesome Entertainment": {
+    "qid": "Q1967210",
+    "parent_qid": "Q1350697",
+    "count_per_year": 1,
+    "years": {
+      "1977": [
+        [
+          "Swami",
+          "Q3506408",
+          "Q11424"
+        ]
+      ],
+      "1989": [
+        [
+          "Chandni",
+          "Q1061735",
+          "Q11424"
+        ]
+      ],
+      "1993": [
+        [
+          "Darr",
+          "Q1166556",
+          "Q11424"
+        ]
+      ],
+      "1995": [
+        [
+          "Dilwale Dulhania Le Jayenge",
+          "Q849343",
+          "Q11424"
+        ]
+      ],
+      "1999": [
+        [
+          "Karan Johar",
+          "Q468442",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "Devdas",
+          "Q247854",
+          "Q11424"
+        ]
+      ],
+      "2004": [
+        [
+          "Veer-Zaara",
+          "Q106819",
+          "Q11424"
+        ]
+      ],
+      "2006": [
+        [
+          "Lage Raho Munna Bhai",
+          "Q980677",
+          "Q11424"
+        ]
+      ],
+      "2007": [
+        [
+          "Chak De! India",
+          "Q1029548",
+          "Q11424"
+        ]
+      ]
+    }
+  },
+  "National Film Award for Best Costume Design": {
+    "qid": "Q1967211",
+    "parent_qid": "Q1350697",
+    "count_per_year": 1,
+    "years": {
+      "1985": [
+        [
+          "The Home and the World",
+          "Q717188",
+          "Q11424"
+        ]
+      ],
+      "2002": [
+        [
+          "Devdas",
+          "Q247854",
+          "Q11424"
+        ]
+      ]
+    }
+  },
+  "National Film Award for Best Feature Film in Malayalam": {
+    "qid": "Q251371",
+    "parent_qid": "Q1350697",
+    "count_per_year": 1,
+    "years": {
+      "1977": [
+        [
+          "Adoor Gopalakrishnan",
+          "Q366242",
+          "Q5"
+        ]
+      ],
+      "1981": [
+        [
+          "Adoor Gopalakrishnan",
+          "Q366242",
+          "Q5"
+        ]
+      ],
+      "1984": [
+        [
+          "Adoor Gopalakrishnan",
+          "Q366242",
+          "Q5"
+        ]
+      ],
+      "1989": [
+        [
+          "Adoor Gopalakrishnan",
+          "Q366242",
+          "Q5"
+        ]
+      ],
+      "1993": [
+        [
+          "Adoor Gopalakrishnan",
+          "Q366242",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "Agnisakshi",
+          "Q4693263",
+          "Q11424"
+        ]
+      ],
+      "2002": [
+        [
+          "Adoor Gopalakrishnan",
+          "Q366242",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Golden Glove Award": {
+    "qid": "Q17351855",
+    "parent_qid": "Q368974",
+    "count_per_year": 1,
+    "years": {
+      "1994": [
+        [
+          "Michel Preud'homme",
+          "Q315992",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "Oliver Kahn",
+          "Q131261",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Manuel Neuer",
+          "Q107365",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "World Cup Golden Ball": {
+    "qid": "Q17355204",
+    "parent_qid": "Q368974",
+    "count_per_year": 1,
+    "years": {
+      "1970": [
+        [
+          "Pelé",
+          "Q12897",
+          "Q5"
+        ]
+      ],
+      "1982": [
+        [
+          "Paolo Rossi",
+          "Q178628",
+          "Q5"
+        ]
+      ],
+      "1986": [
+        [
+          "Diego Maradona",
+          "Q17515",
+          "Q5"
+        ]
+      ],
+      "1990": [
+        [
+          "Salvatore Schillaci",
+          "Q295307",
+          "Q5"
+        ]
+      ],
+      "1994": [
+        [
+          "Romário",
+          "Q178649",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "Ronaldo",
+          "Q529207",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "Oliver Kahn",
+          "Q131261",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Zinedine Zidane",
+          "Q1835",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Diego Forlán",
+          "Q261534",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Lionel Messi",
+          "Q615",
+          "Q5"
+        ]
+      ],
+      "2018": [
+        [
+          "Luka Modrić",
+          "Q483837",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Golden Boy": {
+    "qid": "Q1588911",
+    "parent_qid": "Q1588911",
+    "count_per_year": 1,
+    "years": {
+      "2004": [
+        [
+          "Wayne Rooney",
+          "Q266613",
+          "Q5"
+        ]
+      ],
+      "2005": [
+        [
+          "Lionel Messi",
+          "Q615",
+          "Q5"
+        ]
+      ],
+      "2011": [
+        [
+          "Mario Götze",
+          "Q104454",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Anthony Martial",
+          "Q2091463",
+          "Q5"
+        ]
+      ],
+      "2016": [
+        [
+          "Renato Sanches",
+          "Q18394009",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Kylian Mbappé",
+          "Q21621995",
+          "Q5"
+        ]
+      ],
+      "2020": [
+        [
+          "Erling Haaland",
+          "Q28967995",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Globe Soccer Awards": {
+    "qid": "Q2023724",
+    "parent_qid": "Q2023724",
+    "count_per_year": 1,
+    "years": {
+      "2010": [
+        [
+          "Jorge Mendes",
+          "Q565529",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Lionel Messi",
+          "Q615",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Hart Memorial Trophy": {
+    "qid": "Q678383",
+    "parent_qid": "Q678383",
+    "count_per_year": 1,
+    "years": {
+      "1924": [
+        [
+          "Frank Nighbor",
+          "Q1231607",
+          "Q5"
+        ]
+      ],
+      "1925": [
+        [
+          "Billy Burch",
+          "Q706226",
+          "Q5"
+        ]
+      ],
+      "1926": [
+        [
+          "Nels Stewart",
+          "Q1970185",
+          "Q5"
+        ]
+      ],
+      "1927": [
+        [
+          "Herb Gardiner",
+          "Q361717",
+          "Q5"
+        ]
+      ],
+      "1928": [
+        [
+          "Howie Morenz",
+          "Q538946",
+          "Q5"
+        ]
+      ],
+      "1929": [
+        [
+          "Roy Worters",
+          "Q1436905",
+          "Q5"
+        ]
+      ],
+      "1930": [
+        [
+          "Nels Stewart",
+          "Q1970185",
+          "Q5"
+        ]
+      ],
+      "1931": [
+        [
+          "Howie Morenz",
+          "Q538946",
+          "Q5"
+        ]
+      ],
+      "1932": [
+        [
+          "Howie Morenz",
+          "Q538946",
+          "Q5"
+        ]
+      ],
+      "1933": [
+        [
+          "Eddie Shore",
+          "Q282174",
+          "Q5"
+        ]
+      ],
+      "1934": [
+        [
+          "Aurèle Joliat",
+          "Q777468",
+          "Q5"
+        ]
+      ],
+      "1935": [
+        [
+          "Eddie Shore",
+          "Q282174",
+          "Q5"
+        ]
+      ],
+      "1936": [
+        [
+          "Eddie Shore",
+          "Q282174",
+          "Q5"
+        ]
+      ],
+      "1937": [
+        [
+          "Babe Siebert",
+          "Q713653",
+          "Q5"
+        ]
+      ],
+      "1938": [
+        [
+          "Eddie Shore",
+          "Q282174",
+          "Q5"
+        ]
+      ],
+      "1939": [
+        [
+          "Toe Blake",
+          "Q285583",
+          "Q5"
+        ]
+      ],
+      "1940": [
+        [
+          "Ebbie Goodfellow",
+          "Q732288",
+          "Q5"
+        ]
+      ],
+      "1941": [
+        [
+          "Bill Cowley",
+          "Q324619",
+          "Q5"
+        ]
+      ],
+      "1942": [
+        [
+          "Tommy Anderson",
+          "Q361076",
+          "Q5"
+        ]
+      ],
+      "1943": [
+        [
+          "Bill Cowley",
+          "Q324619",
+          "Q5"
+        ]
+      ],
+      "1944": [
+        [
+          "Babe Pratt",
+          "Q325966",
+          "Q5"
+        ]
+      ],
+      "1945": [
+        [
+          "Elmer Lach",
+          "Q1332986",
+          "Q5"
+        ]
+      ],
+      "1946": [
+        [
+          "Max Bentley",
+          "Q708755",
+          "Q5"
+        ]
+      ],
+      "1947": [
+        [
+          "Maurice Richard",
+          "Q325138",
+          "Q5"
+        ]
+      ],
+      "1948": [
+        [
+          "Buddy O'Connor",
+          "Q360846",
+          "Q5"
+        ]
+      ],
+      "1949": [
+        [
+          "Sid Abel",
+          "Q375748",
+          "Q5"
+        ]
+      ],
+      "1950": [
+        [
+          "Chuck Rayner",
+          "Q730897",
+          "Q5"
+        ]
+      ],
+      "1951": [
+        [
+          "Milt Schmidt",
+          "Q1355449",
+          "Q5"
+        ]
+      ],
+      "1952": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1953": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1954": [
+        [
+          "Al Rollins",
+          "Q686743",
+          "Q5"
+        ]
+      ],
+      "1955": [
+        [
+          "Ted Kennedy",
+          "Q326157",
+          "Q5"
+        ]
+      ],
+      "1956": [
+        [
+          "Jean Béliveau",
+          "Q505479",
+          "Q5"
+        ]
+      ],
+      "1957": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1958": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1959": [
+        [
+          "Andy Bathgate",
+          "Q525300",
+          "Q5"
+        ]
+      ],
+      "1960": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1961": [
+        [
+          "Bernie Geoffrion",
+          "Q826558",
+          "Q5"
+        ]
+      ],
+      "1962": [
+        [
+          "Jacques Plante",
+          "Q538935",
+          "Q5"
+        ]
+      ],
+      "1963": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1964": [
+        [
+          "Jean Béliveau",
+          "Q505479",
+          "Q5"
+        ]
+      ],
+      "1965": [
+        [
+          "Bobby Hull",
+          "Q456688",
+          "Q5"
+        ]
+      ],
+      "1966": [
+        [
+          "Bobby Hull",
+          "Q456688",
+          "Q5"
+        ]
+      ],
+      "1967": [
+        [
+          "Stan Mikita",
+          "Q440237",
+          "Q5"
+        ]
+      ],
+      "1968": [
+        [
+          "Stan Mikita",
+          "Q440237",
+          "Q5"
+        ]
+      ],
+      "1969": [
+        [
+          "Phil Esposito",
+          "Q456779",
+          "Q5"
+        ]
+      ],
+      "1970": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1971": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1972": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1973": [
+        [
+          "Bobby Clarke",
+          "Q888504",
+          "Q5"
+        ]
+      ],
+      "1974": [
+        [
+          "Phil Esposito",
+          "Q456779",
+          "Q5"
+        ]
+      ],
+      "1975": [
+        [
+          "Bobby Clarke",
+          "Q888504",
+          "Q5"
+        ]
+      ],
+      "1976": [
+        [
+          "Bobby Clarke",
+          "Q888504",
+          "Q5"
+        ]
+      ],
+      "1977": [
+        [
+          "Guy Lafleur",
+          "Q553249",
+          "Q5"
+        ]
+      ],
+      "1978": [
+        [
+          "Guy Lafleur",
+          "Q553249",
+          "Q5"
+        ]
+      ],
+      "1979": [
+        [
+          "Bryan Trottier",
+          "Q471847",
+          "Q5"
+        ]
+      ],
+      "1980": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1981": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1982": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1983": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1984": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1985": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1986": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1987": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1988": [
+        [
+          "Mario Lemieux",
+          "Q316249",
+          "Q5"
+        ]
+      ],
+      "1989": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1990": [
+        [
+          "Mark Messier",
+          "Q319247",
+          "Q5"
+        ]
+      ],
+      "1991": [
+        [
+          "Brett Hull",
+          "Q440363",
+          "Q5"
+        ]
+      ],
+      "1992": [
+        [
+          "Mark Messier",
+          "Q319247",
+          "Q5"
+        ]
+      ],
+      "1993": [
+        [
+          "Mario Lemieux",
+          "Q316249",
+          "Q5"
+        ]
+      ],
+      "1994": [
+        [
+          "Sergei Fedorov",
+          "Q368501",
+          "Q5"
+        ]
+      ],
+      "1995": [
+        [
+          "Eric Lindros",
+          "Q960614",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Mario Lemieux",
+          "Q316249",
+          "Q5"
+        ]
+      ],
+      "1997": [
+        [
+          "Dominik Hašek",
+          "Q312695",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "Dominik Hašek",
+          "Q312695",
+          "Q5"
+        ]
+      ],
+      "1999": [
+        [
+          "Jaromír Jágr",
+          "Q295345",
+          "Q5"
+        ]
+      ],
+      "2000": [
+        [
+          "Chris Pronger",
+          "Q553286",
+          "Q5"
+        ]
+      ],
+      "2001": [
+        [
+          "Joe Sakic",
+          "Q316190",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "José Théodore",
+          "Q739894",
+          "Q5"
+        ]
+      ],
+      "2003": [
+        [
+          "Peter Forsberg",
+          "Q348416",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Martin St. Louis",
+          "Q715426",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Joe Thornton",
+          "Q434899",
+          "Q5"
+        ]
+      ],
+      "2007": [
+        [
+          "Sidney Crosby",
+          "Q311280",
+          "Q5"
+        ]
+      ],
+      "2008": [
+        [
+          "Alexander Ovechkin",
+          "Q311374",
+          "Q5"
+        ]
+      ],
+      "2009": [
+        [
+          "Alexander Ovechkin",
+          "Q311374",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Henrik Sedin",
+          "Q375550",
+          "Q5"
+        ]
+      ],
+      "2011": [
+        [
+          "Corey Perry",
+          "Q948963",
+          "Q5"
+        ]
+      ],
+      "2012": [
+        [
+          "Evgeni Malkin",
+          "Q314433",
+          "Q5"
+        ]
+      ],
+      "2013": [
+        [
+          "Alexander Ovechkin",
+          "Q311374",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Sidney Crosby",
+          "Q311280",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Carey Price",
+          "Q720963",
+          "Q5"
+        ]
+      ],
+      "2016": [
+        [
+          "Patrick Kane",
+          "Q335876",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Connor McDavid",
+          "Q2806736",
+          "Q5"
+        ]
+      ],
+      "2018": [
+        [
+          "Taylor Hall",
+          "Q721993",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Doctor": {
+    "qid": "Q4618975",
+    "parent_qid": "Q4618975",
+    "count_per_year": 1,
+    "years": {
+      "1924": [
+        [
+          "Hannah Robertson",
+          "Q18810756",
+          "Q5"
+        ]
+      ],
+      "1974": [
+        [
+          "Malcolm Burns",
+          "Q6742505",
+          "Q5"
+        ]
+      ],
+      "1977": [
+        [
+          "Ruth Gall",
+          "Q38734568",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Patrick Moore",
+          "Q268024",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Linda Mannila",
+          "Q106910948",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Philip A. Gale",
+          "Q38803673",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "The World's 50 Best Restaurants": {
+    "qid": "Q2918929",
+    "parent_qid": "Q2918929",
+    "count_per_year": 1,
+    "years": {
+      "2017": [
+        [
+          "Maido",
+          "Q70413400",
+          "Q11707"
+        ]
+      ],
+      "2018": [
+        [
+          "Maido",
+          "Q70413400",
+          "Q11707"
+        ]
+      ],
+      "2019": [
+        [
+          "Maido",
+          "Q70413400",
+          "Q11707"
+        ]
+      ],
+      "2021": [
+        [
+          "Q120785940",
+          "Q120785940",
+          "Q11707"
+        ]
+      ]
+    }
+  },
+  "All-Pro": {
+    "qid": "Q2706900",
+    "parent_qid": "Q2706900",
+    "count_per_year": 1,
+    "years": {
+      "1951": [
+        [
+          "Len Ford",
+          "Q1709747",
+          "Q5"
+        ]
+      ],
+      "1952": [
+        [
+          "Len Ford",
+          "Q1709747",
+          "Q5"
+        ]
+      ],
+      "1953": [
+        [
+          "Len Ford",
+          "Q1709747",
+          "Q5"
+        ]
+      ],
+      "1954": [
+        [
+          "Len Ford",
+          "Q1709747",
+          "Q5"
+        ]
+      ],
+      "1978": [
+        [
+          "Lynn Swann",
+          "Q441528",
+          "Q5"
+        ]
+      ],
+      "2020": [
+        [
+          "Brandon Scherff",
+          "Q16234164",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "African Footballer of the Year": {
+    "qid": "Q387787",
+    "parent_qid": "Q387787",
+    "count_per_year": 1,
+    "years": {
+      "1982": [
+        [
+          "Ahmed Magrouh",
+          "Q2827614",
+          "Q5"
+        ]
+      ],
+      "2003": [
+        [
+          "Samuel Eto'o",
+          "Q1255625",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Samuel Eto'o",
+          "Q1255625",
+          "Q5"
+        ]
+      ],
+      "2005": [
+        [
+          "Samuel Eto'o",
+          "Q1255625",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Didier Drogba",
+          "Q48892",
+          "Q5"
+        ]
+      ],
+      "2009": [
+        [
+          "Didier Drogba",
+          "Q48892",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Samuel Eto'o",
+          "Q1255625",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Pierre-Emerick Aubameyang",
+          "Q44977",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Mohamed Salah",
+          "Q1354960",
+          "Q5"
+        ]
+      ],
+      "2018": [
+        [
+          "Mohamed Salah",
+          "Q1354960",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Calder Memorial Trophy": {
+    "qid": "Q726480",
+    "parent_qid": "Q726480",
+    "count_per_year": 1,
+    "years": {
+      "1933": [
+        [
+          "Carl Voss",
+          "Q288876",
+          "Q5"
+        ]
+      ],
+      "1934": [
+        [
+          "Russ Blinco",
+          "Q2176866",
+          "Q5"
+        ]
+      ],
+      "1935": [
+        [
+          "Sweeney Schriner",
+          "Q710562",
+          "Q5"
+        ]
+      ],
+      "1936": [
+        [
+          "Mike Karakas",
+          "Q3313389",
+          "Q5"
+        ]
+      ],
+      "1937": [
+        [
+          "Syl Apps",
+          "Q322783",
+          "Q5"
+        ]
+      ],
+      "1938": [
+        [
+          "Cully Dahlstrom",
+          "Q1143470",
+          "Q5"
+        ]
+      ],
+      "1939": [
+        [
+          "Frank Brimsek",
+          "Q1443013",
+          "Q5"
+        ]
+      ],
+      "1940": [
+        [
+          "Kilby MacDonald",
+          "Q3196578",
+          "Q5"
+        ]
+      ],
+      "1941": [
+        [
+          "Johnny Quilty",
+          "Q980673",
+          "Q5"
+        ]
+      ],
+      "1942": [
+        [
+          "Grant Warwick",
+          "Q1425342",
+          "Q5"
+        ]
+      ],
+      "1943": [
+        [
+          "Gaye Stewart",
+          "Q1387200",
+          "Q5"
+        ]
+      ],
+      "1944": [
+        [
+          "Gus Bodnar",
+          "Q440951",
+          "Q5"
+        ]
+      ],
+      "1945": [
+        [
+          "Frank McCool",
+          "Q372580",
+          "Q5"
+        ]
+      ],
+      "1946": [
+        [
+          "Edgar Laprade",
+          "Q919705",
+          "Q5"
+        ]
+      ],
+      "1947": [
+        [
+          "Howie Meeker",
+          "Q941067",
+          "Q5"
+        ]
+      ],
+      "1948": [
+        [
+          "Jim McFadden",
+          "Q629330",
+          "Q5"
+        ]
+      ],
+      "1949": [
+        [
+          "Pentti Lund",
+          "Q1336964",
+          "Q5"
+        ]
+      ],
+      "1950": [
+        [
+          "Jack Gelineau",
+          "Q1228862",
+          "Q5"
+        ]
+      ],
+      "1951": [
+        [
+          "Terry Sawchuk",
+          "Q520254",
+          "Q5"
+        ]
+      ],
+      "1952": [
+        [
+          "Bernie Geoffrion",
+          "Q826558",
+          "Q5"
+        ]
+      ],
+      "1953": [
+        [
+          "Gump Worsley",
+          "Q1345707",
+          "Q5"
+        ]
+      ],
+      "1954": [
+        [
+          "Camille Henry",
+          "Q1029191",
+          "Q5"
+        ]
+      ],
+      "1955": [
+        [
+          "Ed Litzenberger",
+          "Q1282408",
+          "Q5"
+        ]
+      ],
+      "1956": [
+        [
+          "Glenn Hall",
+          "Q648824",
+          "Q5"
+        ]
+      ],
+      "1957": [
+        [
+          "Larry Regan",
+          "Q3218094",
+          "Q5"
+        ]
+      ],
+      "1958": [
+        [
+          "Frank Mahovlich",
+          "Q1382032",
+          "Q5"
+        ]
+      ],
+      "1959": [
+        [
+          "Ralph Backstrom",
+          "Q1344073",
+          "Q5"
+        ]
+      ],
+      "1960": [
+        [
+          "Bill Hay",
+          "Q862179",
+          "Q5"
+        ]
+      ],
+      "1961": [
+        [
+          "Dave Keon",
+          "Q326190",
+          "Q5"
+        ]
+      ],
+      "1962": [
+        [
+          "Bobby Rousseau",
+          "Q888653",
+          "Q5"
+        ]
+      ],
+      "1963": [
+        [
+          "Kent Douglas",
+          "Q444532",
+          "Q5"
+        ]
+      ],
+      "1964": [
+        [
+          "Jacques Laperrière",
+          "Q356280",
+          "Q5"
+        ]
+      ],
+      "1965": [
+        [
+          "Roger Crozier",
+          "Q332243",
+          "Q5"
+        ]
+      ],
+      "1966": [
+        [
+          "Brit Selby",
+          "Q1590358",
+          "Q5"
+        ]
+      ],
+      "1967": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1968": [
+        [
+          "Derek Sanderson",
+          "Q1200111",
+          "Q5"
+        ]
+      ],
+      "1969": [
+        [
+          "Danny Grant",
+          "Q506535",
+          "Q5"
+        ]
+      ],
+      "1970": [
+        [
+          "Tony Esposito",
+          "Q954322",
+          "Q5"
+        ]
+      ],
+      "1971": [
+        [
+          "Gilbert Perreault",
+          "Q141078",
+          "Q5"
+        ]
+      ],
+      "1972": [
+        [
+          "Ken Dryden",
+          "Q739820",
+          "Q5"
+        ]
+      ],
+      "1973": [
+        [
+          "Steve Vickers",
+          "Q364424",
+          "Q5"
+        ]
+      ],
+      "1974": [
+        [
+          "Denis Potvin",
+          "Q176314",
+          "Q5"
+        ]
+      ],
+      "1975": [
+        [
+          "Eric Vail",
+          "Q1351698",
+          "Q5"
+        ]
+      ],
+      "1976": [
+        [
+          "Bryan Trottier",
+          "Q471847",
+          "Q5"
+        ]
+      ],
+      "1977": [
+        [
+          "Willi Plett",
+          "Q462561",
+          "Q5"
+        ]
+      ],
+      "1978": [
+        [
+          "Mike Bossy",
+          "Q372804",
+          "Q5"
+        ]
+      ],
+      "1979": [
+        [
+          "Bobby Smith",
+          "Q677081",
+          "Q5"
+        ]
+      ],
+      "1980": [
+        [
+          "Ray Bourque",
+          "Q715566",
+          "Q5"
+        ]
+      ],
+      "1981": [
+        [
+          "Peter Šťastný",
+          "Q539372",
+          "Q5"
+        ]
+      ],
+      "1982": [
+        [
+          "Dale Hawerchuk",
+          "Q1157843",
+          "Q5"
+        ]
+      ],
+      "1983": [
+        [
+          "Steve Larmer",
+          "Q1709653",
+          "Q5"
+        ]
+      ],
+      "1984": [
+        [
+          "Tom Barrasso",
+          "Q608435",
+          "Q5"
+        ]
+      ],
+      "1985": [
+        [
+          "Mario Lemieux",
+          "Q316249",
+          "Q5"
+        ]
+      ],
+      "1986": [
+        [
+          "Gary Suter",
+          "Q1360724",
+          "Q5"
+        ]
+      ],
+      "1987": [
+        [
+          "Luc Robitaille",
+          "Q661592",
+          "Q5"
+        ]
+      ],
+      "1988": [
+        [
+          "Joe Nieuwendyk",
+          "Q693585",
+          "Q5"
+        ]
+      ],
+      "1989": [
+        [
+          "Brian Leetch",
+          "Q288994",
+          "Q5"
+        ]
+      ],
+      "1990": [
+        [
+          "Sergei Makarov",
+          "Q505412",
+          "Q5"
+        ]
+      ],
+      "1991": [
+        [
+          "Ed Belfour",
+          "Q928110",
+          "Q5"
+        ]
+      ],
+      "1992": [
+        [
+          "Pavel Bure",
+          "Q440741",
+          "Q5"
+        ]
+      ],
+      "1993": [
+        [
+          "Teemu Selänne",
+          "Q253073",
+          "Q5"
+        ]
+      ],
+      "1994": [
+        [
+          "Martin Brodeur",
+          "Q357465",
+          "Q5"
+        ]
+      ],
+      "1995": [
+        [
+          "Peter Forsberg",
+          "Q348416",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Daniel Alfredsson",
+          "Q447297",
+          "Q5"
+        ]
+      ],
+      "1997": [
+        [
+          "Bryan Berard",
+          "Q994964",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "Sergei Samsonov",
+          "Q163589",
+          "Q5"
+        ]
+      ],
+      "1999": [
+        [
+          "Chris Drury",
+          "Q471491",
+          "Q5"
+        ]
+      ],
+      "2000": [
+        [
+          "Scott Gomez",
+          "Q739332",
+          "Q5"
+        ]
+      ],
+      "2001": [
+        [
+          "Evgeni Nabokov",
+          "Q390913",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "Dany Heatley",
+          "Q440283",
+          "Q5"
+        ]
+      ],
+      "2003": [
+        [
+          "Barret Jackman",
+          "Q808879",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Andrew Raycroft",
+          "Q506880",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Alexander Ovechkin",
+          "Q311374",
+          "Q5"
+        ]
+      ],
+      "2007": [
+        [
+          "Evgeni Malkin",
+          "Q314433",
+          "Q5"
+        ]
+      ],
+      "2008": [
+        [
+          "Patrick Kane",
+          "Q335876",
+          "Q5"
+        ]
+      ],
+      "2009": [
+        [
+          "Steve Mason",
+          "Q2033859",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Tyler Myers",
+          "Q1365229",
+          "Q5"
+        ]
+      ],
+      "2011": [
+        [
+          "Jeff Skinner",
+          "Q553283",
+          "Q5"
+        ]
+      ],
+      "2012": [
+        [
+          "Gabriel Landeskog",
+          "Q715421",
+          "Q5"
+        ]
+      ],
+      "2013": [
+        [
+          "Jonathan Huberdeau",
+          "Q984221",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Nathan MacKinnon",
+          "Q1966594",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Aaron Ekblad",
+          "Q4661992",
+          "Q5"
+        ]
+      ],
+      "2016": [
+        [
+          "Artemy Panarin",
+          "Q593699",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Auston Matthews",
+          "Q20090644",
+          "Q5"
+        ]
+      ],
+      "2018": [
+        [
+          "Mathew Barzal",
+          "Q17385625",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "NBA Defensive Player of the Year Award": {
+    "qid": "Q845884",
+    "parent_qid": "Q845884",
+    "count_per_year": 1,
+    "years": {
+      "1983": [
+        [
+          "Sidney Moncrief",
+          "Q177928",
+          "Q5"
+        ]
+      ],
+      "1984": [
+        [
+          "Sidney Moncrief",
+          "Q177928",
+          "Q5"
+        ]
+      ],
+      "1985": [
+        [
+          "Mark Eaton",
+          "Q357757",
+          "Q5"
+        ]
+      ],
+      "1986": [
+        [
+          "Alvin Robertson",
+          "Q449245",
+          "Q5"
+        ]
+      ],
+      "1987": [
+        [
+          "Michael Cooper",
+          "Q971538",
+          "Q5"
+        ]
+      ],
+      "1988": [
+        [
+          "Michael Jordan",
+          "Q41421",
+          "Q5"
+        ]
+      ],
+      "1989": [
+        [
+          "Mark Eaton",
+          "Q357757",
+          "Q5"
+        ]
+      ],
+      "1990": [
+        [
+          "Dennis Rodman",
+          "Q201608",
+          "Q5"
+        ]
+      ],
+      "1991": [
+        [
+          "Dennis Rodman",
+          "Q201608",
+          "Q5"
+        ]
+      ],
+      "1992": [
+        [
+          "David Robinson",
+          "Q211876",
+          "Q5"
+        ]
+      ],
+      "1993": [
+        [
+          "Hakeem Olajuwon",
+          "Q273256",
+          "Q5"
+        ]
+      ],
+      "1994": [
+        [
+          "Hakeem Olajuwon",
+          "Q273256",
+          "Q5"
+        ]
+      ],
+      "1995": [
+        [
+          "Dikembe Mutombo",
+          "Q313481",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Gary Payton",
+          "Q309872",
+          "Q5"
+        ]
+      ],
+      "1997": [
+        [
+          "Dikembe Mutombo",
+          "Q313481",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "Dikembe Mutombo",
+          "Q313481",
+          "Q5"
+        ]
+      ],
+      "1999": [
+        [
+          "Alonzo Mourning",
+          "Q310968",
+          "Q5"
+        ]
+      ],
+      "2000": [
+        [
+          "Alonzo Mourning",
+          "Q310968",
+          "Q5"
+        ]
+      ],
+      "2001": [
+        [
+          "Dikembe Mutombo",
+          "Q313481",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "Ben Wallace",
+          "Q295364",
+          "Q5"
+        ]
+      ],
+      "2003": [
+        [
+          "Ben Wallace",
+          "Q295364",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Metta Sandiford-Artest",
+          "Q295322",
+          "Q5"
+        ]
+      ],
+      "2005": [
+        [
+          "Ben Wallace",
+          "Q295364",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Ben Wallace",
+          "Q295364",
+          "Q5"
+        ]
+      ],
+      "2007": [
+        [
+          "Marcus Camby",
+          "Q361134",
+          "Q5"
+        ]
+      ],
+      "2008": [
+        [
+          "Kevin Garnett",
+          "Q189240",
+          "Q5"
+        ]
+      ],
+      "2009": [
+        [
+          "Dwight Howard",
+          "Q25278",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Dwight Howard",
+          "Q25278",
+          "Q5"
+        ]
+      ],
+      "2011": [
+        [
+          "Dwight Howard",
+          "Q25278",
+          "Q5"
+        ]
+      ],
+      "2012": [
+        [
+          "Tyson Chandler",
+          "Q297146",
+          "Q5"
+        ]
+      ],
+      "2013": [
+        [
+          "Marc Gasol",
+          "Q275889",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Joakim Noah",
+          "Q311735",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Kawhi Leonard",
+          "Q926248",
+          "Q5"
+        ]
+      ],
+      "2016": [
+        [
+          "Kawhi Leonard",
+          "Q926248",
+          "Q5"
+        ]
+      ],
+      "2018": [
+        [
+          "Rudy Gobert",
+          "Q3446792",
+          "Q5"
+        ]
+      ],
+      "2019": [
+        [
+          "Rudy Gobert",
+          "Q3446792",
+          "Q5"
+        ]
+      ],
+      "2020": [
+        [
+          "Giannis Antetokounmpo",
+          "Q8991894",
+          "Q5"
+        ]
+      ],
+      "2021": [
+        [
+          "Rudy Gobert",
+          "Q3446792",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Art Ross Trophy": {
+    "qid": "Q705707",
+    "parent_qid": "Q705707",
+    "count_per_year": 1,
+    "years": {
+      "1948": [
+        [
+          "Elmer Lach",
+          "Q1332986",
+          "Q5"
+        ]
+      ],
+      "1949": [
+        [
+          "Roy Conacher",
+          "Q730883",
+          "Q5"
+        ]
+      ],
+      "1950": [
+        [
+          "Ted Lindsay",
+          "Q2164733",
+          "Q5"
+        ]
+      ],
+      "1951": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1952": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1953": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1954": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1955": [
+        [
+          "Bernie Geoffrion",
+          "Q826558",
+          "Q5"
+        ]
+      ],
+      "1956": [
+        [
+          "Jean Béliveau",
+          "Q505479",
+          "Q5"
+        ]
+      ],
+      "1957": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1958": [
+        [
+          "Dickie Moore",
+          "Q1210031",
+          "Q5"
+        ]
+      ],
+      "1959": [
+        [
+          "Dickie Moore",
+          "Q1210031",
+          "Q5"
+        ]
+      ],
+      "1960": [
+        [
+          "Bobby Hull",
+          "Q456688",
+          "Q5"
+        ]
+      ],
+      "1961": [
+        [
+          "Bernie Geoffrion",
+          "Q826558",
+          "Q5"
+        ]
+      ],
+      "1962": [
+        [
+          "Bobby Hull",
+          "Q456688",
+          "Q5"
+        ]
+      ],
+      "1963": [
+        [
+          "Gordie Howe",
+          "Q358519",
+          "Q5"
+        ]
+      ],
+      "1964": [
+        [
+          "Stan Mikita",
+          "Q440237",
+          "Q5"
+        ]
+      ],
+      "1965": [
+        [
+          "Stan Mikita",
+          "Q440237",
+          "Q5"
+        ]
+      ],
+      "1966": [
+        [
+          "Bobby Hull",
+          "Q456688",
+          "Q5"
+        ]
+      ],
+      "1967": [
+        [
+          "Stan Mikita",
+          "Q440237",
+          "Q5"
+        ]
+      ],
+      "1968": [
+        [
+          "Stan Mikita",
+          "Q440237",
+          "Q5"
+        ]
+      ],
+      "1969": [
+        [
+          "Phil Esposito",
+          "Q456779",
+          "Q5"
+        ]
+      ],
+      "1970": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1971": [
+        [
+          "Phil Esposito",
+          "Q456779",
+          "Q5"
+        ]
+      ],
+      "1972": [
+        [
+          "Phil Esposito",
+          "Q456779",
+          "Q5"
+        ]
+      ],
+      "1973": [
+        [
+          "Phil Esposito",
+          "Q456779",
+          "Q5"
+        ]
+      ],
+      "1974": [
+        [
+          "Phil Esposito",
+          "Q456779",
+          "Q5"
+        ]
+      ],
+      "1975": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1976": [
+        [
+          "Guy Lafleur",
+          "Q553249",
+          "Q5"
+        ]
+      ],
+      "1977": [
+        [
+          "Guy Lafleur",
+          "Q553249",
+          "Q5"
+        ]
+      ],
+      "1978": [
+        [
+          "Guy Lafleur",
+          "Q553249",
+          "Q5"
+        ]
+      ],
+      "1979": [
+        [
+          "Bryan Trottier",
+          "Q471847",
+          "Q5"
+        ]
+      ],
+      "1980": [
+        [
+          "Marcel Dionne",
+          "Q141082",
+          "Q5"
+        ]
+      ],
+      "1981": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1982": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1983": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1984": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1985": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1986": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1987": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1988": [
+        [
+          "Mario Lemieux",
+          "Q316249",
+          "Q5"
+        ]
+      ],
+      "1989": [
+        [
+          "Mario Lemieux",
+          "Q316249",
+          "Q5"
+        ]
+      ],
+      "1990": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1991": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1992": [
+        [
+          "Mario Lemieux",
+          "Q316249",
+          "Q5"
+        ]
+      ],
+      "1993": [
+        [
+          "Mario Lemieux",
+          "Q316249",
+          "Q5"
+        ]
+      ],
+      "1994": [
+        [
+          "Wayne Gretzky",
+          "Q209518",
+          "Q5"
+        ]
+      ],
+      "1995": [
+        [
+          "Jaromír Jágr",
+          "Q295345",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Mario Lemieux",
+          "Q316249",
+          "Q5"
+        ]
+      ],
+      "1997": [
+        [
+          "Mario Lemieux",
+          "Q316249",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "Jaromír Jágr",
+          "Q295345",
+          "Q5"
+        ]
+      ],
+      "1999": [
+        [
+          "Jaromír Jágr",
+          "Q295345",
+          "Q5"
+        ]
+      ],
+      "2000": [
+        [
+          "Jaromír Jágr",
+          "Q295345",
+          "Q5"
+        ]
+      ],
+      "2001": [
+        [
+          "Jaromír Jágr",
+          "Q295345",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "Jarome Iginla",
+          "Q456708",
+          "Q5"
+        ]
+      ],
+      "2003": [
+        [
+          "Peter Forsberg",
+          "Q348416",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Martin St. Louis",
+          "Q715426",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Joe Thornton",
+          "Q434899",
+          "Q5"
+        ]
+      ],
+      "2008": [
+        [
+          "Alexander Ovechkin",
+          "Q311374",
+          "Q5"
+        ]
+      ],
+      "2009": [
+        [
+          "Evgeni Malkin",
+          "Q314433",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Henrik Sedin",
+          "Q375550",
+          "Q5"
+        ]
+      ],
+      "2011": [
+        [
+          "Daniel Sedin",
+          "Q537416",
+          "Q5"
+        ]
+      ],
+      "2012": [
+        [
+          "Evgeni Malkin",
+          "Q314433",
+          "Q5"
+        ]
+      ],
+      "2013": [
+        [
+          "Martin St. Louis",
+          "Q715426",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Sidney Crosby",
+          "Q311280",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Jamie Benn",
+          "Q1064791",
+          "Q5"
+        ]
+      ],
+      "2016": [
+        [
+          "Patrick Kane",
+          "Q335876",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Connor McDavid",
+          "Q2806736",
+          "Q5"
+        ]
+      ],
+      "2018": [
+        [
+          "Connor McDavid",
+          "Q2806736",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "PFA Young Player of the Year": {
+    "qid": "Q2009646",
+    "parent_qid": "Q2009646",
+    "count_per_year": 1,
+    "years": {
+      "1997": [
+        [
+          "David Beckham",
+          "Q10520",
+          "Q5"
+        ]
+      ],
+      "1999": [
+        [
+          "Nicolas Anelka",
+          "Q1939",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Cristiano Ronaldo",
+          "Q11571",
+          "Q5"
+        ]
+      ],
+      "2011": [
+        [
+          "Jack Wilshere",
+          "Q15199",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "PFA Team of the Year": {
+    "qid": "Q2044044",
+    "parent_qid": "Q2044044",
+    "count_per_year": 1,
+    "years": {
+      "1997": [
+        [
+          "David Beckham",
+          "Q10520",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "David Beckham",
+          "Q10520",
+          "Q5"
+        ]
+      ],
+      "1999": [
+        [
+          "David Beckham",
+          "Q10520",
+          "Q5"
+        ]
+      ],
+      "2000": [
+        [
+          "David Beckham",
+          "Q10520",
+          "Q5"
+        ]
+      ],
+      "2005": [
+        [
+          "Cristiano Ronaldo",
+          "Q11571",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Cristiano Ronaldo",
+          "Q11571",
+          "Q5"
+        ]
+      ],
+      "2007": [
+        [
+          "Cristiano Ronaldo",
+          "Q11571",
+          "Q5"
+        ]
+      ],
+      "2008": [
+        [
+          "Cristiano Ronaldo",
+          "Q11571",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "American Film Institute Awards": {
+    "qid": "Q2842929",
+    "parent_qid": "Q2842929",
+    "count_per_year": 1,
+    "years": {
+      "2003": [
+        [
+          "John Dahl",
+          "Q1699742",
+          "Q5"
+        ]
+      ],
+      "2009": [
+        [
+          "Iron Man",
+          "Q192724",
+          "Q11424"
+        ]
+      ],
+      "2014": [
+        [
+          "Jane the Virgin",
+          "Q16913682",
+          "Q5398426"
+        ]
+      ],
+      "2021": [
+        [
+          "Bridgerton",
+          "Q85748936",
+          "Q5398426"
+        ]
+      ]
+    }
+  },
+  "Daytime Emmy Award for Outstanding Lifestyle/Culinary Show Host": {
+    "qid": "Q15046324",
+    "parent_qid": "Q1179189",
+    "count_per_year": 1,
+    "years": {
+      "2001": [
+        [
+          "Jacques Pépin",
+          "Q1132519",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Suze Orman",
+          "Q465633",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Suze Orman",
+          "Q465633",
+          "Q5"
+        ]
+      ],
+      "2012": [
+        [
+          "Sandra Lee",
+          "Q15524741",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Brenton Metzler",
+          "Q54919142",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Daytime Emmy Award for Outstanding Performer in Children's Programming": {
+    "qid": "Q17492368",
+    "parent_qid": "Q1179189",
+    "count_per_year": 1,
+    "years": {
+      "1983": [
+        [
+          "Cloris Leachman",
+          "Q230131",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Gena Rowlands",
+          "Q229258",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Daytime Emmy Award for Outstanding Children's Series": {
+    "qid": "Q17986431",
+    "parent_qid": "Q1179189",
+    "count_per_year": 1,
+    "years": {
+      "1983": [
+        [
+          "Gerard Baldwin",
+          "Q3103934",
+          "Q5"
+        ]
+      ],
+      "1984": [
+        [
+          "Gerard Baldwin",
+          "Q3103934",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Daytime Emmy Award for Outstanding Entertainment Talk Show Host": {
+    "qid": "Q19867547",
+    "parent_qid": "Q1179189",
+    "count_per_year": 1,
+    "years": {
+      "2009": [
+        [
+          "Whoopi Goldberg",
+          "Q49001",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Aisha Tyler",
+          "Q241800",
+          "Q5"
+        ]
+      ],
+      "2016": [
+        [
+          "Aisha Tyler",
+          "Q241800",
+          "Q5"
+        ]
+      ],
+      "2018": [
+        [
+          "Adrienne Bailon-Houghton",
+          "Q1770657",
+          "Q5"
+        ]
+      ],
+      "2019": [
+        [
+          "Tamera Mowry",
+          "Q2341056",
+          "Q5"
+        ]
+      ],
+      "2020": [
+        [
+          "Kelly Clarkson",
+          "Q483507",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Daytime Emmy Award for Outstanding Legal/Courtroom Program": {
+    "qid": "Q5243448",
+    "parent_qid": "Q1179189",
+    "count_per_year": 1,
+    "years": {
+      "2009": [
+        [
+          "Jerry Kupcinet",
+          "Q6183900",
+          "Q5"
+        ]
+      ],
+      "2011": [
+        [
+          "Greg Mathis",
+          "Q8965056",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Daytime Emmy Award for Outstanding Supporting Actor in a Drama Series": {
+    "qid": "Q5243449",
+    "parent_qid": "Q1179189",
+    "count_per_year": 1,
+    "years": {
+      "1979": [
+        [
+          "General Hospital",
+          "Q1136370",
+          "Q5398426"
+        ]
+      ],
+      "1982": [
+        [
+          "General Hospital",
+          "Q1136370",
+          "Q5398426"
+        ]
+      ],
+      "1985": [
+        [
+          "Larry Gates",
+          "Q749735",
+          "Q5"
+        ]
+      ],
+      "1993": [
+        [
+          "General Hospital",
+          "Q1136370",
+          "Q5398426"
+        ]
+      ],
+      "1997": [
+        [
+          "Ian Buchanan",
+          "Q673434",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "General Hospital",
+          "Q1136370",
+          "Q5398426"
+        ]
+      ],
+      "1999": [
+        [
+          "General Hospital",
+          "Q1136370",
+          "Q5398426"
+        ]
+      ],
+      "2004": [
+        [
+          "General Hospital",
+          "Q1136370",
+          "Q5398426"
+        ]
+      ],
+      "2007": [
+        [
+          "General Hospital",
+          "Q1136370",
+          "Q5398426"
+        ]
+      ],
+      "2011": [
+        [
+          "General Hospital",
+          "Q1136370",
+          "Q5398426"
+        ]
+      ],
+      "2012": [
+        [
+          "General Hospital",
+          "Q1136370",
+          "Q5398426"
+        ]
+      ]
+    }
+  },
+  "Daytime Emmy Award for Outstanding Talk Show": {
+    "qid": "Q5243452",
+    "parent_qid": "Q1179189",
+    "count_per_year": 1,
+    "years": {
+      "2004": [
+        [
+          "Ellen DeGeneres",
+          "Q483325",
+          "Q5"
+        ]
+      ],
+      "2005": [
+        [
+          "Ellen DeGeneres",
+          "Q483325",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Ellen DeGeneres",
+          "Q483325",
+          "Q5"
+        ]
+      ],
+      "2007": [
+        [
+          "Ellen DeGeneres",
+          "Q483325",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Daytime Emmy Award for Outstanding Music Direction and Composition": {
+    "qid": "Q46935425",
+    "parent_qid": "Q1179189",
+    "count_per_year": 1,
+    "years": {
+      "1975": [
+        [
+          "Billy Goldenberg",
+          "Q328637",
+          "Q5"
+        ]
+      ],
+      "1988": [
+        [
+          "Rick Rhodes",
+          "Q7331675",
+          "Q5"
+        ]
+      ],
+      "1993": [
+        [
+          "Rick Rhodes",
+          "Q7331675",
+          "Q5"
+        ]
+      ],
+      "1995": [
+        [
+          "Rick Rhodes",
+          "Q7331675",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Rick Rhodes",
+          "Q7331675",
+          "Q5"
+        ]
+      ],
+      "1997": [
+        [
+          "Cory Lerios",
+          "Q1135790",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "Rick Rhodes",
+          "Q7331675",
+          "Q5"
+        ]
+      ],
+      "2000": [
+        [
+          "Lee Holdridge",
+          "Q1449569",
+          "Q5"
+        ]
+      ],
+      "2005": [
+        [
+          "Lee Holdridge",
+          "Q1449569",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Daytime Emmy Award for Outstanding Lifestyle Program": {
+    "qid": "Q100385264",
+    "parent_qid": "Q1179189",
+    "count_per_year": 1,
+    "years": {
+      "2016": [
+        [
+          "This Old House",
+          "Q7786191",
+          "Q5398426"
+        ]
+      ],
+      "2017": [
+        [
+          "Flea Market Flip",
+          "Q5458314",
+          "Q5398426"
+        ]
+      ],
+      "2019": [
+        [
+          "Ask This Old House",
+          "Q98098241",
+          "Q5398426"
+        ]
+      ],
+      "2020": [
+        [
+          "George To The Rescue",
+          "Q100383971",
+          "Q5398426"
+        ]
+      ]
+    }
+  },
+  "Marshal of France": {
+    "qid": "Q474485",
+    "parent_qid": "Q474485",
+    "count_per_year": 1,
+    "years": {
+      "1804": [
+        [
+          "Michel Ney",
+          "Q40756",
+          "Q5"
+        ]
+      ],
+      "1918": [
+        [
+          "Philippe Pétain",
+          "Q5721",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "NFL Rookie of the Year": {
+    "qid": "Q837137",
+    "parent_qid": "Q837137",
+    "count_per_year": 1,
+    "years": {
+      "1969": [
+        [
+          "Joe Greene",
+          "Q505256",
+          "Q5"
+        ]
+      ],
+      "1986": [
+        [
+          "Leslie O'Neal",
+          "Q11349641",
+          "Q5"
+        ]
+      ],
+      "1989": [
+        [
+          "Derrick Thomas",
+          "Q3023998",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "Charles Woodson",
+          "Q1066501",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "Julius Peppers",
+          "Q938260",
+          "Q5"
+        ]
+      ],
+      "2003": [
+        [
+          "Terrell Suggs",
+          "Q1097677",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "James Norris Memorial Trophy": {
+    "qid": "Q752423",
+    "parent_qid": "Q752423",
+    "count_per_year": 1,
+    "years": {
+      "1954": [
+        [
+          "Red Kelly",
+          "Q706565",
+          "Q5"
+        ]
+      ],
+      "1955": [
+        [
+          "Doug Harvey",
+          "Q1251751",
+          "Q5"
+        ]
+      ],
+      "1956": [
+        [
+          "Doug Harvey",
+          "Q1251751",
+          "Q5"
+        ]
+      ],
+      "1957": [
+        [
+          "Doug Harvey",
+          "Q1251751",
+          "Q5"
+        ]
+      ],
+      "1958": [
+        [
+          "Doug Harvey",
+          "Q1251751",
+          "Q5"
+        ]
+      ],
+      "1959": [
+        [
+          "Tom Johnson",
+          "Q728053",
+          "Q5"
+        ]
+      ],
+      "1960": [
+        [
+          "Doug Harvey",
+          "Q1251751",
+          "Q5"
+        ]
+      ],
+      "1961": [
+        [
+          "Doug Harvey",
+          "Q1251751",
+          "Q5"
+        ]
+      ],
+      "1962": [
+        [
+          "Doug Harvey",
+          "Q1251751",
+          "Q5"
+        ]
+      ],
+      "1963": [
+        [
+          "Pierre Pilote",
+          "Q473306",
+          "Q5"
+        ]
+      ],
+      "1964": [
+        [
+          "Pierre Pilote",
+          "Q473306",
+          "Q5"
+        ]
+      ],
+      "1965": [
+        [
+          "Pierre Pilote",
+          "Q473306",
+          "Q5"
+        ]
+      ],
+      "1966": [
+        [
+          "Jacques Laperrière",
+          "Q356280",
+          "Q5"
+        ]
+      ],
+      "1967": [
+        [
+          "Harry Howell",
+          "Q356291",
+          "Q5"
+        ]
+      ],
+      "1968": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1969": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1970": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1971": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1972": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1973": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1974": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1975": [
+        [
+          "Bobby Orr",
+          "Q348017",
+          "Q5"
+        ]
+      ],
+      "1976": [
+        [
+          "Denis Potvin",
+          "Q176314",
+          "Q5"
+        ]
+      ],
+      "1977": [
+        [
+          "Larry Robinson",
+          "Q1806113",
+          "Q5"
+        ]
+      ],
+      "1978": [
+        [
+          "Denis Potvin",
+          "Q176314",
+          "Q5"
+        ]
+      ],
+      "1979": [
+        [
+          "Denis Potvin",
+          "Q176314",
+          "Q5"
+        ]
+      ],
+      "1980": [
+        [
+          "Larry Robinson",
+          "Q1806113",
+          "Q5"
+        ]
+      ],
+      "1981": [
+        [
+          "Randy Carlyle",
+          "Q597514",
+          "Q5"
+        ]
+      ],
+      "1982": [
+        [
+          "Doug Wilson",
+          "Q719308",
+          "Q5"
+        ]
+      ],
+      "1983": [
+        [
+          "Rod Langway",
+          "Q717860",
+          "Q5"
+        ]
+      ],
+      "1984": [
+        [
+          "Rod Langway",
+          "Q717860",
+          "Q5"
+        ]
+      ],
+      "1985": [
+        [
+          "Paul Coffey",
+          "Q920926",
+          "Q5"
+        ]
+      ],
+      "1986": [
+        [
+          "Paul Coffey",
+          "Q920926",
+          "Q5"
+        ]
+      ],
+      "1987": [
+        [
+          "Ray Bourque",
+          "Q715566",
+          "Q5"
+        ]
+      ],
+      "1988": [
+        [
+          "Ray Bourque",
+          "Q715566",
+          "Q5"
+        ]
+      ],
+      "1989": [
+        [
+          "Chris Chelios",
+          "Q715377",
+          "Q5"
+        ]
+      ],
+      "1990": [
+        [
+          "Ray Bourque",
+          "Q715566",
+          "Q5"
+        ]
+      ],
+      "1991": [
+        [
+          "Ray Bourque",
+          "Q715566",
+          "Q5"
+        ]
+      ],
+      "1992": [
+        [
+          "Brian Leetch",
+          "Q288994",
+          "Q5"
+        ]
+      ],
+      "1993": [
+        [
+          "Chris Chelios",
+          "Q715377",
+          "Q5"
+        ]
+      ],
+      "1994": [
+        [
+          "Ray Bourque",
+          "Q715566",
+          "Q5"
+        ]
+      ],
+      "1995": [
+        [
+          "Paul Coffey",
+          "Q920926",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Chris Chelios",
+          "Q715377",
+          "Q5"
+        ]
+      ],
+      "1997": [
+        [
+          "Brian Leetch",
+          "Q288994",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "Rob Blake",
+          "Q742548",
+          "Q5"
+        ]
+      ],
+      "1999": [
+        [
+          "Al MacInnis",
+          "Q378367",
+          "Q5"
+        ]
+      ],
+      "2000": [
+        [
+          "Chris Pronger",
+          "Q553286",
+          "Q5"
+        ]
+      ],
+      "2001": [
+        [
+          "Nicklas Lidström",
+          "Q434200",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "Nicklas Lidström",
+          "Q434200",
+          "Q5"
+        ]
+      ],
+      "2003": [
+        [
+          "Nicklas Lidström",
+          "Q434200",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Scott Niedermayer",
+          "Q449145",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Nicklas Lidström",
+          "Q434200",
+          "Q5"
+        ]
+      ],
+      "2007": [
+        [
+          "Nicklas Lidström",
+          "Q434200",
+          "Q5"
+        ]
+      ],
+      "2008": [
+        [
+          "Nicklas Lidström",
+          "Q434200",
+          "Q5"
+        ]
+      ],
+      "2009": [
+        [
+          "Zdeno Chára",
+          "Q168957",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Duncan Keith",
+          "Q722101",
+          "Q5"
+        ]
+      ],
+      "2011": [
+        [
+          "Nicklas Lidström",
+          "Q434200",
+          "Q5"
+        ]
+      ],
+      "2012": [
+        [
+          "Erik Karlsson",
+          "Q929159",
+          "Q5"
+        ]
+      ],
+      "2013": [
+        [
+          "P. K. Subban",
+          "Q27535",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Duncan Keith",
+          "Q722101",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Erik Karlsson",
+          "Q929159",
+          "Q5"
+        ]
+      ],
+      "2016": [
+        [
+          "Drew Doughty",
+          "Q706924",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Brent Burns",
+          "Q909711",
+          "Q5"
+        ]
+      ],
+      "2018": [
+        [
+          "Victor Hedman",
+          "Q728924",
+          "Q5"
+        ]
+      ],
+      "2021": [
+        [
+          "Adam Fox",
+          "Q60735944",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Frank J. Selke Trophy": {
+    "qid": "Q785207",
+    "parent_qid": "Q785207",
+    "count_per_year": 1,
+    "years": {
+      "1978": [
+        [
+          "Bob Gainey",
+          "Q887935",
+          "Q5"
+        ]
+      ],
+      "1979": [
+        [
+          "Bob Gainey",
+          "Q887935",
+          "Q5"
+        ]
+      ],
+      "1980": [
+        [
+          "Bob Gainey",
+          "Q887935",
+          "Q5"
+        ]
+      ],
+      "1981": [
+        [
+          "Bob Gainey",
+          "Q887935",
+          "Q5"
+        ]
+      ],
+      "1982": [
+        [
+          "Steve Kasper",
+          "Q331407",
+          "Q5"
+        ]
+      ],
+      "1983": [
+        [
+          "Bobby Clarke",
+          "Q888504",
+          "Q5"
+        ]
+      ],
+      "1984": [
+        [
+          "Doug Jarvis",
+          "Q718614",
+          "Q5"
+        ]
+      ],
+      "1985": [
+        [
+          "Craig Ramsay",
+          "Q718620",
+          "Q5"
+        ]
+      ],
+      "1986": [
+        [
+          "Troy Murray",
+          "Q330319",
+          "Q5"
+        ]
+      ],
+      "1987": [
+        [
+          "Dave Poulin",
+          "Q718654",
+          "Q5"
+        ]
+      ],
+      "1988": [
+        [
+          "Guy Carbonneau",
+          "Q537010",
+          "Q5"
+        ]
+      ],
+      "1989": [
+        [
+          "Guy Carbonneau",
+          "Q537010",
+          "Q5"
+        ]
+      ],
+      "1990": [
+        [
+          "Rick Meagher",
+          "Q331420",
+          "Q5"
+        ]
+      ],
+      "1991": [
+        [
+          "Dirk Graham",
+          "Q776011",
+          "Q5"
+        ]
+      ],
+      "1992": [
+        [
+          "Guy Carbonneau",
+          "Q537010",
+          "Q5"
+        ]
+      ],
+      "1993": [
+        [
+          "Doug Gilmour",
+          "Q955391",
+          "Q5"
+        ]
+      ],
+      "1994": [
+        [
+          "Sergei Fedorov",
+          "Q368501",
+          "Q5"
+        ]
+      ],
+      "1995": [
+        [
+          "Ron Francis",
+          "Q927970",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Sergei Fedorov",
+          "Q368501",
+          "Q5"
+        ]
+      ],
+      "1997": [
+        [
+          "Michael Peca",
+          "Q1383180",
+          "Q5"
+        ]
+      ],
+      "1998": [
+        [
+          "Jere Lehtinen",
+          "Q539344",
+          "Q5"
+        ]
+      ],
+      "1999": [
+        [
+          "Jere Lehtinen",
+          "Q539344",
+          "Q5"
+        ]
+      ],
+      "2000": [
+        [
+          "Steve Yzerman",
+          "Q440395",
+          "Q5"
+        ]
+      ],
+      "2001": [
+        [
+          "John Madden",
+          "Q945652",
+          "Q5"
+        ]
+      ],
+      "2002": [
+        [
+          "Michael Peca",
+          "Q1383180",
+          "Q5"
+        ]
+      ],
+      "2003": [
+        [
+          "Jere Lehtinen",
+          "Q539344",
+          "Q5"
+        ]
+      ],
+      "2004": [
+        [
+          "Kris Draper",
+          "Q948695",
+          "Q5"
+        ]
+      ],
+      "2006": [
+        [
+          "Rod Brind'Amour",
+          "Q949869",
+          "Q5"
+        ]
+      ],
+      "2007": [
+        [
+          "Rod Brind'Amour",
+          "Q949869",
+          "Q5"
+        ]
+      ],
+      "2008": [
+        [
+          "Pavel Datsyuk",
+          "Q381413",
+          "Q5"
+        ]
+      ],
+      "2009": [
+        [
+          "Pavel Datsyuk",
+          "Q381413",
+          "Q5"
+        ]
+      ],
+      "2010": [
+        [
+          "Pavel Datsyuk",
+          "Q381413",
+          "Q5"
+        ]
+      ],
+      "2011": [
+        [
+          "Ryan Kesler",
+          "Q640268",
+          "Q5"
+        ]
+      ],
+      "2012": [
+        [
+          "Patrice Bergeron",
+          "Q536741",
+          "Q5"
+        ]
+      ],
+      "2013": [
+        [
+          "Jonathan Toews",
+          "Q528240",
+          "Q5"
+        ]
+      ],
+      "2014": [
+        [
+          "Patrice Bergeron",
+          "Q536741",
+          "Q5"
+        ]
+      ],
+      "2015": [
+        [
+          "Patrice Bergeron",
+          "Q536741",
+          "Q5"
+        ]
+      ],
+      "2016": [
+        [
+          "Anže Kopitar",
+          "Q375787",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Patrice Bergeron",
+          "Q536741",
+          "Q5"
+        ]
+      ],
+      "2018": [
+        [
+          "Anže Kopitar",
+          "Q375787",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Dhyan Chand Award": {
+    "qid": "Q4807859",
+    "parent_qid": "Q4807859",
+    "count_per_year": 3,
+    "years": {
+      "2020": [
+        [
+          "Trupti Murgunde",
+          "Q1719579",
+          "Q5"
+        ],
+        [
+          "Pradeep Gandhe",
+          "Q2107313",
+          "Q5"
+        ],
+        [
+          "Satyaprakash Tiwari",
+          "Q107379263",
+          "Q5"
+        ]
+      ],
+      "2023": [
+        [
+          "Manjusha Kanwar",
+          "Q540286",
+          "Q5"
+        ],
+        [
+          "Vineet Kumar Sharma",
+          "Q7932404",
+          "Q5"
+        ],
+        [
+          "Kavitha Selvaraj",
+          "Q47000958",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "NBA Sixth Man of the Year Award": {
+    "qid": "Q844517",
+    "parent_qid": "Q844517",
+    "count_per_year": 1,
+    "years": {
+      "1993": [
+        [
+          "Clifford Robinson",
+          "Q1101335",
+          "Q5"
+        ]
+      ],
+      "1996": [
+        [
+          "Toni Kukoč",
+          "Q245222",
+          "Q5"
+        ]
+      ],
+      "1997": [
+        [
+          "John Starks",
+          "Q1353754",
+          "Q5"
+        ]
+      ],
+      "1999": [
+        [
+          "Darrell Armstrong",
+          "Q641041",
+          "Q5"
+        ]
+      ],
+      "2012": [
+        [
+          "James Harden",
+          "Q136678",
+          "Q5"
+        ]
+      ],
+      "2018": [
+        [
+          "Ben Simmons",
+          "Q18638003",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Maxwell Award": {
+    "qid": "Q1130978",
+    "parent_qid": "Q1130978",
+    "count_per_year": 1,
+    "years": {
+      "2016": [
+        [
+          "Lamar Jackson",
+          "Q24809702",
+          "Q5"
+        ]
+      ],
+      "2017": [
+        [
+          "Baker Mayfield",
+          "Q14950655",
+          "Q5"
+        ]
+      ],
+      "2019": [
+        [
+          "Joe Burrow",
+          "Q56860229",
+          "Q5"
+        ]
+      ]
+    }
+  },
+  "Chuck Bednarik Award": {
+    "qid": "Q736659",
+    "parent_qid": "Q736659",
+    "count_per_year": 1,
+    "years": {
+      "2018": [
+        [
+          "Josh Hines-Allen",
+          "Q55615341",
+          "Q5"
+        ]
+      ],
+      "2019": [
+        [
+          "Chase Young",
+          "Q65029655",
+          "Q5"
+        ]
+      ],
+      "2020": [
+        [
+          "Zaven Collins",
+          "Q102060166",
+          "Q5"
+        ]
+      ],
+      "2024": [
+        [
+          "Travis Hunter",
+          "Q110442577",
+          "Q5"
+        ]
+      ]
+    }
+  }
+}
